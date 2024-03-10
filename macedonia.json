@@ -2,7 +2,7 @@
   {
     "id": 1,
     "gregorian_date": "01-01-2024",
-    "hijri_date": "17-05-1443",
+    "hijri_date": "17-05-",
     "imsak": "05:16",
     "fajr": "06:27",
     "sunrise": "06:57",
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "gregorian_date": "02-01-2024",
-    "hijri_date": "18-05-1443",
+    "hijri_date": "18-05-1445",
     "imsak": "05:17",
     "fajr": "06:27",
     "sunrise": "06:57",
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "gregorian_date": "03-01-2024",
-    "hijri_date": "19-05-1443",
+    "hijri_date": "19-05-1445",
     "imsak": "05:17",
     "fajr": "06:27",
     "sunrise": "06:57",
@@ -38,7 +38,7 @@
   {
     "id": 4,
     "gregorian_date": "04-01-2024",
-    "hijri_date": "20-05-1443",
+    "hijri_date": "20-05-1445",
     "imsak": "05:17",
     "fajr": "06:27",
     "sunrise": "06:57",
@@ -50,7 +50,7 @@
   {
     "id": 5,
     "gregorian_date": "05-01-2024",
-    "hijri_date": "21-05-1443",
+    "hijri_date": "21-05-1445",
     "imsak": "05:17",
     "fajr": "06:27",
     "sunrise": "06:57",
@@ -62,7 +62,7 @@
   {
     "id": 6,
     "gregorian_date": "06-01-2024",
-    "hijri_date": "22-05-1443",
+    "hijri_date": "22-05-1445",
     "imsak": "05:17",
     "fajr": "06:27",
     "sunrise": "06:57",
@@ -73,7 +73,7 @@
   },
   {
     "id": 7,
-    "hijri_date": "23-05-1443",
+    "hijri_date": "23-05-1445",
     "gregorian_date": "07-01-2024",
     "imsak": "05:17",
     "fajr": "06:27",
@@ -86,7 +86,7 @@
   {
     "id": 8,
     "gregorian_date": "08-01-2024",
-    "hijri_date": "24-05-1443",
+    "hijri_date": "24-05-1445",
     "imsak": "05:17",
     "fajr": "06:27",
     "sunrise": "06:57",
@@ -98,7 +98,7 @@
   {
     "id": 9,
     "gregorian_date": "09-01-2024",
-    "hijri_date": "25-05-1443",
+    "hijri_date": "25-05-1445",
     "imsak": "05:17",
     "fajr": "06:27",
     "sunrise": "06:57",
@@ -110,7 +110,7 @@
   {
     "id": 10,
     "gregorian_date": "10-01-2024",
-    "hijri_date": "26-05-1443",
+    "hijri_date": "26-05-1445",
     "imsak": "05:17",
     "fajr": "06:27",
     "sunrise": "06:57",
@@ -122,7 +122,7 @@
   {
     "id": 11,
     "gregorian_date": "11-01-2024",
-    "hijri_date": "27-05-1443",
+    "hijri_date": "27-05-1445",
     "imsak": "05:17",
     "fajr": "06:26",
     "sunrise": "06:56",
@@ -134,7 +134,7 @@
   {
     "id": 12,
     "gregorian_date": "12-01-2024",
-    "hijri_date": "28-05-1443",
+    "hijri_date": "28-05-1445",
     "imsak": "05:17",
     "fajr": "06:26",
     "sunrise": "06:56",
@@ -146,7 +146,7 @@
   {
     "id": 13,
     "gregorian_date": "13-01-2024",
-    "hijri_date": "29-05-1443",
+    "hijri_date": "29-05-1445",
     "imsak": "05:17",
     "fajr": "06:26",
     "sunrise": "06:56",
@@ -158,7 +158,7 @@
   {
     "id": 14,
     "gregorian_date": "14-01-2024",
-    "hijri_date": "01-06-1443",
+    "hijri_date": "01-06-1445",
     "imsak": "05:16",
     "fajr": "06:25",
     "sunrise": "06:55",
@@ -170,7 +170,7 @@
   {
     "id": 15,
     "gregorian_date": "15-01-2024",
-    "hijri_date": "02-06-1443",
+    "hijri_date": "02-06-1445",
     "imsak": "05:16",
     "fajr": "06:25",
     "sunrise": "06:55",
@@ -182,7 +182,7 @@
   {
     "id": 16,
     "gregorian_date": "16-01-2024",
-    "hijri_date": "03-06-1443",
+    "hijri_date": "03-06-1445",
     "imsak": "05:16",
     "fajr": "06:25",
     "sunrise": "06:55",
@@ -194,7 +194,7 @@
   {
     "id": 17,
     "gregorian_date": "17-01-2024",
-    "hijri_date": "04-06-1443",
+    "hijri_date": "04-06-1445",
     "imsak": "05:16",
     "fajr": "06:24",
     "sunrise": "06:54",
@@ -206,7 +206,7 @@
   {
     "id": 18,
     "gregorian_date": "18-01-2024",
-    "hijri_date": "05-06-1443",
+    "hijri_date": "05-06-1445",
     "imsak": "05:15",
     "fajr": "06:24",
     "sunrise": "06:54",
@@ -218,7 +218,7 @@
   {
     "id": 19,
     "gregorian_date": "19-01-2024",
-    "hijri_date": "06-06-1443",
+    "hijri_date": "06-06-1445",
     "imsak": "05:15",
     "fajr": "06:23",
     "sunrise": "06:53",
@@ -230,7 +230,7 @@
   {
     "id": 20,
     "gregorian_date": "20-01-2024",
-    "hijri_date": "07-06-1443",
+    "hijri_date": "07-06-1445",
     "imsak": "05:14",
     "fajr": "06:22",
     "sunrise": "06:52",
@@ -242,7 +242,7 @@
   {
     "id": 21,
     "gregorian_date": "21-01-2024",
-    "hijri_date": "08-06-1443",
+    "hijri_date": "08-06-1445",
     "imsak": "05:14",
     "fajr": "06:22",
     "sunrise": "06:52",
@@ -254,7 +254,7 @@
   {
     "id": 22,
     "gregorian_date": "22-01-2024",
-    "hijri_date": "09-06-1443",
+    "hijri_date": "09-06-1445",
     "imsak": "05:13",
     "fajr": "06:21",
     "sunrise": "06:51",
@@ -266,7 +266,7 @@
   {
     "id": 23,
     "gregorian_date": "23-01-2024",
-    "hijri_date": "10-06-1443",
+    "hijri_date": "10-06-1445",
     "imsak": "05:13",
     "fajr": "06:20",
     "sunrise": "06:50",
@@ -278,7 +278,7 @@
   {
     "id": 24,
     "gregorian_date": "24-01-2024",
-    "hijri_date": "11-06-1443",
+    "hijri_date": "11-06-1445",
     "imsak": "05:12",
     "fajr": "06:20",
     "sunrise": "06:50",
@@ -290,7 +290,7 @@
   {
     "id": 25,
     "gregorian_date": "25-01-2024",
-    "hijri_date": "12-06-1443",
+    "hijri_date": "12-06-1445",
     "imsak": "05:12",
     "fajr": "06:19",
     "sunrise": "06:49",
@@ -302,7 +302,7 @@
   {
     "id": 26,
     "gregorian_date": "26-01-2024",
-    "hijri_date": "13-06-1443",
+    "hijri_date": "13-06-1445",
     "imsak": "05:11",
     "fajr": "06:18",
     "sunrise": "06:48",
@@ -314,7 +314,7 @@
   {
     "id": 27,
     "gregorian_date": "27-01-2024",
-    "hijri_date": "14-06-1443",
+    "hijri_date": "14-06-1445",
     "imsak": "05:11",
     "fajr": "06:17",
     "sunrise": "06:47",
@@ -326,7 +326,7 @@
   {
     "id": 28,
     "gregorian_date": "28-01-2024",
-    "hijri_date": "15-06-1443",
+    "hijri_date": "15-06-1445",
     "imsak": "05:10",
     "fajr": "06:16",
     "sunrise": "06:46",
@@ -338,7 +338,7 @@
   {
     "id": 29,
     "gregorian_date": "29-01-2024",
-    "hijri_date": "16-06-1443",
+    "hijri_date": "16-06-1445",
     "imsak": "05:09",
     "fajr": "06:16",
     "sunrise": "06:46",
@@ -350,7 +350,7 @@
   {
     "id": 30,
     "gregorian_date": "30-01-2024",
-    "hijri_date": "17-06-1443",
+    "hijri_date": "17-06-1445",
     "imsak": "05:08",
     "fajr": "06:15",
     "sunrise": "06:45",
@@ -362,7 +362,7 @@
   {
     "id": 31,
     "gregorian_date": "31-01-2024",
-    "hijri_date": "18-06-1443",
+    "hijri_date": "18-06-1445",
     "imsak": "05:08",
     "fajr": "06:14",
     "sunrise": "06:44",
@@ -374,7 +374,7 @@
   {
     "id": 32,
     "gregorian_date": "01-02-2024",
-    "hijri_date": "19-06-1443",
+    "hijri_date": "19-06-1445",
     "imsak": "05:07",
     "fajr": "06:13",
     "sunrise": "06:43",
@@ -386,7 +386,7 @@
   {
     "id": 33,
     "gregorian_date": "02-02-2024",
-    "hijri_date": "20-06-1443",
+    "hijri_date": "20-06-1445",
     "imsak": "05:06",
     "fajr": "06:12",
     "sunrise": "06:42",
@@ -397,7 +397,7 @@
   },
   {
     "gregorian_date": "03-02-2024",
-    "hijri_date": "21-06-1443",
+    "hijri_date": "21-06-1445",
     "id": 34,
     "imsak": "05:05",
     "fajr": "06:11",
@@ -410,7 +410,7 @@
   {
     "id": 35,
     "gregorian_date": "04-02-2024",
-    "hijri_date": "22-06-1443",
+    "hijri_date": "22-06-1445",
     "imsak": "05:04",
     "fajr": "06:10",
     "sunrise": "06:40",
@@ -422,7 +422,7 @@
   {
     "id": 36,
     "gregorian_date": "05-02-2024",
-    "hijri_date": "23-06-1443",
+    "hijri_date": "23-06-1445",
     "imsak": "05:03",
     "fajr": "06:08",
     "sunrise": "06:38",
@@ -434,7 +434,7 @@
   {
     "id": 37,
     "gregorian_date": "06-02-2024",
-    "hijri_date": "24-06-1443",
+    "hijri_date": "24-06-1445",
     "imsak": "05:02",
     "fajr": "06:07",
     "sunrise": "06:37",
@@ -446,7 +446,7 @@
   {
     "id": 38,
     "gregorian_date": "07-02-2024",
-    "hijri_date": "25-06-1443",
+    "hijri_date": "25-06-1445",
     "imsak": "05:01",
     "fajr": "06:06",
     "sunrise": "06:36",
@@ -458,7 +458,7 @@
   {
     "id": 39,
     "gregorian_date": "08-02-2024",
-    "hijri_date": "26-06-1443",
+    "hijri_date": "26-06-1445",
     "imsak": "05:00",
     "fajr": "06:05",
     "sunrise": "06:35",
@@ -470,7 +470,7 @@
   {
     "id": 40,
     "gregorian_date": "09-02-2024",
-    "hijri_date": "27-06-1443",
+    "hijri_date": "27-06-1445",
     "imsak": "04:59",
     "fajr": "06:04",
     "sunrise": "06:34",
@@ -482,7 +482,7 @@
   {
     "id": 41,
     "gregorian_date": "10-02-2024",
-    "hijri_date": "28-06-1443",
+    "hijri_date": "28-06-1445",
     "imsak": "04:58",
     "fajr": "06:03",
     "sunrise": "06:33",
@@ -494,7 +494,7 @@
   {
     "id": 42,
     "gregorian_date": "11-02-2024",
-    "hijri_date": "29-06-1443",
+    "hijri_date": "29-06-1445",
     "imsak": "04:57",
     "fajr": "06:01",
     "sunrise": "06:31",
@@ -506,7 +506,7 @@
   {
     "id": 43,
     "gregorian_date": "12-02-2024",
-    "hijri_date": "30-06-1443",
+    "hijri_date": "30-06-1445",
     "imsak": "04:56",
     "fajr": "06:00",
     "sunrise": "06:30",
@@ -518,7 +518,7 @@
   {
     "id": 44,
     "gregorian_date": "13-02-2024",
-    "hijri_date": "01-07-1443",
+    "hijri_date": "01-07-1445",
     "imsak": "04:55",
     "fajr": "05:59",
     "sunrise": "06:29",
@@ -530,7 +530,7 @@
   {
     "id": 45,
     "gregorian_date": "14-02-2024",
-    "hijri_date": "02-07-1443",
+    "hijri_date": "02-07-1445",
     "imsak": "04:54",
     "fajr": "05:57",
     "sunrise": "06:27",
@@ -542,7 +542,7 @@
   {
     "id": 46,
     "gregorian_date": "15-02-2024",
-    "hijri_date": "03-07-1443",
+    "hijri_date": "03-07-1445",
     "imsak": "04:52",
     "fajr": "05:56",
     "sunrise": "06:26",
@@ -554,7 +554,7 @@
   {
     "id": 47,
     "gregorian_date": "16-02-2024",
-    "hijri_date": "04-07-1443",
+    "hijri_date": "04-07-1445",
     "imsak": "04:51",
     "fajr": "05:55",
     "sunrise": "06:25",
@@ -566,7 +566,7 @@
   {
     "id": 48,
     "gregorian_date": "17-02-2024",
-    "hijri_date": "05-07-1443",
+    "hijri_date": "05-07-1445",
     "imsak": "04:50",
     "fajr": "05:53",
     "sunrise": "06:23",
@@ -578,7 +578,7 @@
   {
     "id": 49,
     "gregorian_date": "18-02-2024",
-    "hijri_date": "06-07-1443",
+    "hijri_date": "06-07-1445",
     "imsak": "04:49",
     "fajr": "05:52",
     "sunrise": "06:22",
@@ -590,7 +590,7 @@
   {
     "id": 50,
     "gregorian_date": "19-02-2024",
-    "hijri_date": "07-07-1443",
+    "hijri_date": "07-07-1445",
     "imsak": "04:47",
     "fajr": "05:51",
     "sunrise": "06:21",
@@ -602,7 +602,7 @@
   {
     "id": 51,
     "gregorian_date": "20-02-2024",
-    "hijri_date": "08-07-1443",
+    "hijri_date": "08-07-1445",
     "imsak": "04:46",
     "fajr": "05:49",
     "sunrise": "06:19",
@@ -614,7 +614,7 @@
   {
     "id": 52,
     "gregorian_date": "21-02-2024",
-    "hijri_date": "09-07-1443",
+    "hijri_date": "09-07-1445",
     "imsak": "04:45",
     "fajr": "05:48",
     "sunrise": "06:18",
@@ -626,7 +626,7 @@
   {
     "id": 53,
     "gregorian_date": "22-02-2024",
-    "hijri_date": "10-07-1443",
+    "hijri_date": "10-07-1445",
     "imsak": "04:43",
     "fajr": "05:46",
     "sunrise": "06:16",
@@ -638,7 +638,7 @@
   {
     "id": 54,
     "gregorian_date": "23-02-2024",
-    "hijri_date": "11-07-1443",
+    "hijri_date": "11-07-1445",
     "imsak": "04:42",
     "fajr": "05:45",
     "sunrise": "06:15",
@@ -650,7 +650,7 @@
   {
     "id": 55,
     "gregorian_date": "24-02-2024",
-    "hijri_date": "12-07-1443",
+    "hijri_date": "12-07-1445",
     "imsak": "04:40",
     "fajr": "05:43",
     "sunrise": "06:13",
@@ -662,7 +662,7 @@
   {
     "id": 56,
     "gregorian_date": "25-02-2024",
-    "hijri_date": "13-07-1443",
+    "hijri_date": "13-07-1445",
     "imsak": "04:39",
     "fajr": "05:42",
     "sunrise": "06:12",
@@ -674,7 +674,7 @@
   {
     "id": 57,
     "gregorian_date": "26-02-2024",
-    "hijri_date": "14-07-1443",
+    "hijri_date": "14-07-1445",
     "imsak": "04:37",
     "fajr": "05:40",
     "sunrise": "06:10",
@@ -686,7 +686,7 @@
   {
     "id": 58,
     "gregorian_date": "27-02-2024",
-    "hijri_date": "15-07-1443",
+    "hijri_date": "15-07-1445",
     "imsak": "04:36",
     "fajr": "05:39",
     "sunrise": "06:09",
@@ -698,7 +698,7 @@
   {
     "id": 59,
     "gregorian_date": "28-02-2024",
-    "hijri_date": "16-07-1443",
+    "hijri_date": "16-07-1445",
     "imsak": "04:34",
     "fajr": "05:37",
     "sunrise": "06:07",
@@ -710,7 +710,7 @@
   {
     "id": 60,
     "gregorian_date": "01-03-2024",
-    "hijri_date": "17-07-1443",
+    "hijri_date": "17-07-1445",
     "imsak": "04:31",
     "fajr": "05:35",
     "sunrise": "06:05",
@@ -722,7 +722,7 @@
   {
     "id": 61,
     "gregorian_date": "02-03-2024",
-    "hijri_date": "18-07-1443",
+    "hijri_date": "18-07-1445",
     "imsak": "04:30",
     "fajr": "05:34",
     "sunrise": "06:04",
@@ -734,7 +734,7 @@
   {
     "id": 62,
     "gregorian_date": "03-03-2024",
-    "hijri_date": "19-07-1443",
+    "hijri_date": "19-07-1445",
     "imsak": "04:28",
     "fajr": "05:32",
     "sunrise": "06:02",
@@ -746,7 +746,7 @@
   {
     "id": 63,
     "gregorian_date": "04-03-2024",
-    "hijri_date": "20-07-1443",
+    "hijri_date": "20-07-1445",
     "imsak": "04:27",
     "fajr": "05:31",
     "sunrise": "06:01",
@@ -758,7 +758,7 @@
   {
     "id": 64,
     "gregorian_date": "05-03-2024",
-    "hijri_date": "21-07-1443",
+    "hijri_date": "21-07-1445",
     "imsak": "04:25",
     "fajr": "05:29",
     "sunrise": "05:59",
@@ -770,7 +770,7 @@
   {
     "id": 65,
     "gregorian_date": "06-03-2024",
-    "hijri_date": "22-07-1443",
+    "hijri_date": "22-07-1445",
     "imsak": "04:23",
     "fajr": "05:27",
     "sunrise": "05:57",
@@ -782,7 +782,7 @@
   {
     "id": 66,
     "gregorian_date": "07-03-2024",
-    "hijri_date": "23-07-1443",
+    "hijri_date": "23-07-1445",
     "imsak": "04:22",
     "fajr": "05:26",
     "sunrise": "05:56",
@@ -794,7 +794,7 @@
   {
     "id": 67,
     "gregorian_date": "08-03-2024",
-    "hijri_date": "24-07-1443",
+    "hijri_date": "24-07-1445",
     "imsak": "04:20",
     "fajr": "05:24",
     "sunrise": "05:54",
@@ -806,7 +806,7 @@
   {
     "id": 68,
     "gregorian_date": "09-03-2024",
-    "hijri_date": "25-07-1443",
+    "hijri_date": "25-07-1445",
     "imsak": "04:18",
     "fajr": "05:22",
     "sunrise": "05:52",
@@ -818,7 +818,7 @@
   {
     "id": 69,
     "gregorian_date": "10-03-2024",
-    "hijri_date": "26-07-1443",
+    "hijri_date": "26-07-1445",
     "imsak": "04:17",
     "fajr": "05:21",
     "sunrise": "05:51",
@@ -830,7 +830,7 @@
   {
     "id": 70,
     "gregorian_date": "11-03-2024",
-    "hijri_date": "27-07-1443",
+    "hijri_date": "27-07-1445",
     "imsak": "04:15",
     "fajr": "05:19",
     "sunrise": "05:49",
@@ -842,7 +842,7 @@
   {
     "id": 71,
     "gregorian_date": "12-03-2024",
-    "hijri_date": "28-07-1443",
+    "hijri_date": "28-07-1445",
     "imsak": "04:13",
     "fajr": "05:17",
     "sunrise": "05:47",
@@ -854,7 +854,7 @@
   {
     "id": 72,
     "gregorian_date": "13-03-2024",
-    "hijri_date": "29-07-1443",
+    "hijri_date": "29-07-1445",
     "imsak": "04:11",
     "fajr": "05:16",
     "sunrise": "05:46",
@@ -866,7 +866,7 @@
   {
     "id": 73,
     "gregorian_date": "14-03-2024",
-    "hijri_date": "01-08-1443",
+    "hijri_date": "01-08-1445",
     "imsak": "04:10",
     "fajr": "05:14",
     "sunrise": "05:44",
@@ -878,7 +878,7 @@
   {
     "id": 74,
     "gregorian_date": "15-03-2024",
-    "hijri_date": "02-08-1443",
+    "hijri_date": "02-08-1445",
     "imsak": "04:08",
     "fajr": "05:12",
     "sunrise": "05:42",
@@ -890,7 +890,7 @@
   {
     "id": 75,
     "gregorian_date": "16-03-2024",
-    "hijri_date": "03-08-1443",
+    "hijri_date": "03-08-1445",
     "imsak": "04:06",
     "fajr": "05:11",
     "sunrise": "05:41",
@@ -902,7 +902,7 @@
   {
     "id": 76,
     "gregorian_date": "17-03-2024",
-    "hijri_date": "04-08-1443",
+    "hijri_date": "04-08-1445",
     "imsak": "04:04",
     "fajr": "05:09",
     "sunrise": "05:39",
@@ -914,7 +914,7 @@
   {
     "id": 77,
     "gregorian_date": "18-03-2024",
-    "hijri_date": "05-08-1443",
+    "hijri_date": "05-08-1445",
     "imsak": "04:02",
     "fajr": "05:07",
     "sunrise": "05:37",
@@ -926,7 +926,7 @@
   {
     "id": 78,
     "gregorian_date": "19-03-2024",
-    "hijri_date": "06-08-1443",
+    "hijri_date": "06-08-1445",
     "imsak": "04:00",
     "fajr": "05:05",
     "sunrise": "05:35",
@@ -938,7 +938,7 @@
   {
     "id": 79,
     "gregorian_date": "20-03-2024",
-    "hijri_date": "07-08-1443",
+    "hijri_date": "07-08-1445",
     "imsak": "03:59",
     "fajr": "05:04",
     "sunrise": "05:34",
@@ -950,7 +950,7 @@
   {
     "id": 80,
     "gregorian_date": "21-03-2024",
-    "hijri_date": "08-08-1443",
+    "hijri_date": "08-08-1445",
     "imsak": "03:57",
     "fajr": "05:02",
     "sunrise": "05:32",
@@ -962,7 +962,7 @@
   {
     "id": 81,
     "gregorian_date": "22-03-2024",
-    "hijri_date": "09-08-1443",
+    "hijri_date": "09-08-1445",
     "imsak": "03:55",
     "fajr": "05:00",
     "sunrise": "05:30",
@@ -974,7 +974,7 @@
   {
     "id": 82,
     "gregorian_date": "23-03-2024",
-    "hijri_date": "10-08-1443",
+    "hijri_date": "10-08-1445",
     "imsak": "03:53",
     "fajr": "04:59",
     "sunrise": "05:29",
@@ -986,7 +986,7 @@
   {
     "id": 83,
     "gregorian_date": "24-03-2024",
-    "hijri_date": "11-08-1443",
+    "hijri_date": "11-08-1445",
     "imsak": "03:51",
     "fajr": "04:57",
     "sunrise": "05:27",
@@ -998,7 +998,7 @@
   {
     "id": 84,
     "gregorian_date": "25-03-2024",
-    "hijri_date": "12-08-1443",
+    "hijri_date": "12-08-1445",
     "imsak": "03:49",
     "fajr": "04:55",
     "sunrise": "05:25",
@@ -1010,7 +1010,7 @@
   {
     "id": 85,
     "gregorian_date": "26-03-2024",
-    "hijri_date": "13-08-1443",
+    "hijri_date": "13-08-1445",
     "imsak": "03:47",
     "fajr": "04:53",
     "sunrise": "05:23",
@@ -1022,7 +1022,7 @@
   {
     "id": 86,
     "gregorian_date": "27-03-2024",
-    "hijri_date": "14-08-1443",
+    "hijri_date": "14-08-1445",
     "imsak": "04:45",
     "fajr": "05:52",
     "sunrise": "06:22",
@@ -1034,7 +1034,7 @@
   {
     "id": 87,
     "gregorian_date": "28-03-2024",
-    "hijri_date": "15-08-1443",
+    "hijri_date": "15-08-1445",
     "imsak": "04:43",
     "fajr": "05:50",
     "sunrise": "06:20",
@@ -1046,7 +1046,7 @@
   {
     "id": 88,
     "gregorian_date": "29-03-2024",
-    "hijri_date": "16-08-1443",
+    "hijri_date": "16-08-1445",
     "imsak": "04:41",
     "fajr": "05:48",
     "sunrise": "06:18",
@@ -1058,7 +1058,7 @@
   {
     "id": 89,
     "gregorian_date": "30-03-2024",
-    "hijri_date": "17-08-1443",
+    "hijri_date": "17-08-1445",
     "imsak": "04:39",
     "fajr": "05:47",
     "sunrise": "06:17",
@@ -1070,7 +1070,7 @@
   {
     "id": 90,
     "gregorian_date": "31-03-2024",
-    "hijri_date": "18-08-1443",
+    "hijri_date": "18-08-1445",
     "imsak": "04:38",
     "fajr": "05:45",
     "sunrise": "06:15",
@@ -1082,7 +1082,7 @@
   {
     "id": 91,
     "gregorian_date": "01-04-2024",
-    "hijri_date": "19-08-1443",
+    "hijri_date": "19-08-1445",
     "imsak": "04:36",
     "fajr": "05:43",
     "sunrise": "06:13",
@@ -1094,7 +1094,7 @@
   {
     "id": 92,
     "gregorian_date": "02-04-2024",
-    "hijri_date": "20-08-1443",
+    "hijri_date": "20-08-1445",
     "imsak": "04:34",
     "fajr": "05:41",
     "sunrise": "06:11",
@@ -1106,7 +1106,7 @@
   {
     "id": 93,
     "gregorian_date": "03-04-2024",
-    "hijri_date": "21-08-1443",
+    "hijri_date": "21-08-1445",
     "imsak": "04:32",
     "fajr": "05:40",
     "sunrise": "06:10",
@@ -1118,7 +1118,7 @@
   {
     "id": 94,
     "gregorian_date": "04-04-2024",
-    "hijri_date": "22-08-1443",
+    "hijri_date": "22-08-1445",
     "imsak": "04:30",
     "fajr": "05:38",
     "sunrise": "06:08",
@@ -1130,7 +1130,7 @@
   {
     "id": 95,
     "gregorian_date": "05-04-2024",
-    "hijri_date": "23-08-1443",
+    "hijri_date": "23-08-1445",
     "imsak": "04:28",
     "fajr": "05:36",
     "sunrise": "06:06",
@@ -1142,7 +1142,7 @@
   {
     "id": 96,
     "gregorian_date": "06-04-2024",
-    "hijri_date": "24-08-1443",
+    "hijri_date": "24-08-1445",
     "imsak": "04:26",
     "fajr": "05:35",
     "sunrise": "06:05",
@@ -1154,7 +1154,7 @@
   {
     "id": 97,
     "gregorian_date": "07-04-2024",
-    "hijri_date": "25-08-1443",
+    "hijri_date": "25-08-1445",
     "imsak": "04:24",
     "fajr": "05:33",
     "sunrise": "06:03",
@@ -1166,7 +1166,7 @@
   {
     "id": 98,
     "gregorian_date": "08-04-2024",
-    "hijri_date": "26-08-1443",
+    "hijri_date": "26-08-1445",
     "imsak": "04:22",
     "fajr": "05:31",
     "sunrise": "06:01",
@@ -1178,7 +1178,7 @@
   {
     "id": 99,
     "gregorian_date": "09-04-2024",
-    "hijri_date": "27-08-1443",
+    "hijri_date": "27-08-1445",
     "imsak": "04:20",
     "fajr": "05:30",
     "sunrise": "06:00",
@@ -1190,7 +1190,7 @@
   {
     "id": 100,
     "gregorian_date": "10-04-2024",
-    "hijri_date": "28-08-1443",
+    "hijri_date": "28-08-1445",
     "imsak": "04:18",
     "fajr": "05:28",
     "sunrise": "05:58",
@@ -1202,7 +1202,7 @@
   {
     "id": 101,
     "gregorian_date": "11-04-2024",
-    "hijri_date": "29-08-1443",
+    "hijri_date": "29-08-1445",
     "imsak": "04:16",
     "fajr": "05:26",
     "sunrise": "05:56",
@@ -1214,7 +1214,7 @@
   {
     "id": 102,
     "gregorian_date": "12-04-2024",
-    "hijri_date": "30-08-1443",
+    "hijri_date": "30-08-1445",
     "imsak": "04:14",
     "fajr": "05:25",
     "sunrise": "05:55",
@@ -1226,7 +1226,7 @@
   {
     "id": 103,
     "gregorian_date": "13-04-2024",
-    "hijri_date": "01-09-1443",
+    "hijri_date": "01-09-1445",
     "imsak": "04:12",
     "fajr": "05:23",
     "sunrise": "05:53",
@@ -1238,7 +1238,7 @@
   {
     "id": 104,
     "gregorian_date": "14-04-2024",
-    "hijri_date": "02-09-1443",
+    "hijri_date": "02-09-1445",
     "imsak": "04:10",
     "fajr": "05:21",
     "sunrise": "05:51",
@@ -1250,7 +1250,7 @@
   {
     "id": 105,
     "gregorian_date": "15-04-2024",
-    "hijri_date": "03-09-1443",
+    "hijri_date": "03-09-1445",
     "imsak": "04:08",
     "fajr": "05:20",
     "sunrise": "05:50",
@@ -1262,7 +1262,7 @@
   {
     "id": 106,
     "gregorian_date": "16-04-2024",
-    "hijri_date": "04-09-1443",
+    "hijri_date": "04-09-1445",
     "imsak": "04:06",
     "fajr": "05:18",
     "sunrise": "05:48",
@@ -1274,7 +1274,7 @@
   {
     "id": 107,
     "gregorian_date": "17-04-2024",
-    "hijri_date": "05-09-1443",
+    "hijri_date": "05-09-1445",
     "imsak": "04:04",
     "fajr": "05:17",
     "sunrise": "05:47",
@@ -1286,7 +1286,7 @@
   {
     "id": 108,
     "gregorian_date": "18-04-2024",
-    "hijri_date": "06-09-1443",
+    "hijri_date": "06-09-1445",
     "imsak": "04:02",
     "fajr": "05:15",
     "sunrise": "05:45",
@@ -1298,7 +1298,7 @@
   {
     "id": 109,
     "gregorian_date": "19-04-2024",
-    "hijri_date": "07-09-1443",
+    "hijri_date": "07-09-1445",
     "imsak": "04:00",
     "fajr": "05:14",
     "sunrise": "05:44",
@@ -1310,7 +1310,7 @@
   {
     "id": 110,
     "gregorian_date": "20-04-2024",
-    "hijri_date": "08-09-1443",
+    "hijri_date": "08-09-1445",
     "imsak": "03:58",
     "fajr": "05:12",
     "sunrise": "05:42",
@@ -1322,7 +1322,7 @@
   {
     "id": 111,
     "gregorian_date": "21-04-2024",
-    "hijri_date": "09-09-1443",
+    "hijri_date": "09-09-1445",
     "imsak": "03:56",
     "fajr": "05:11",
     "sunrise": "05:41",
@@ -1334,7 +1334,7 @@
   {
     "id": 112,
     "gregorian_date": "22-04-2024",
-    "hijri_date": "10-09-1443",
+    "hijri_date": "10-09-1445",
     "imsak": "03:54",
     "fajr": "05:09",
     "sunrise": "05:39",
@@ -1346,7 +1346,7 @@
   {
     "id": 113,
     "gregorian_date": "23-04-2024",
-    "hijri_date": "11-09-1443",
+    "hijri_date": "11-09-1445",
     "imsak": "03:52",
     "fajr": "05:07",
     "sunrise": "05:37",
@@ -1358,7 +1358,7 @@
   {
     "id": 114,
     "gregorian_date": "24-04-2024",
-    "hijri_date": "12-09-1443",
+    "hijri_date": "12-09-1445",
     "imsak": "03:50",
     "fajr": "05:06",
     "sunrise": "05:36",
@@ -1370,7 +1370,7 @@
   {
     "id": 115,
     "gregorian_date": "25-04-2024",
-    "hijri_date": "13-09-1443",
+    "hijri_date": "13-09-1445",
     "imsak": "03:48",
     "fajr": "05:05",
     "sunrise": "05:35",
@@ -1382,7 +1382,7 @@
   {
     "id": 116,
     "gregorian_date": "26-04-2024",
-    "hijri_date": "14-09-1443",
+    "hijri_date": "14-09-1445",
     "imsak": "03:46",
     "fajr": "05:03",
     "sunrise": "05:33",
@@ -1394,7 +1394,7 @@
   {
     "id": 117,
     "gregorian_date": "27-04-2024",
-    "hijri_date": "15-09-1443",
+    "hijri_date": "15-09-1445",
     "imsak": "03:44",
     "fajr": "05:02",
     "sunrise": "05:32",
@@ -1406,7 +1406,7 @@
   {
     "id": 118,
     "gregorian_date": "28-04-2024",
-    "hijri_date": "16-09-1443",
+    "hijri_date": "16-09-1445",
     "imsak": "03:42",
     "fajr": "05:00",
     "sunrise": "05:30",
@@ -1418,7 +1418,7 @@
   {
     "id": 119,
     "gregorian_date": "29-04-2024",
-    "hijri_date": "17-09-1443",
+    "hijri_date": "17-09-1445",
     "imsak": "03:40",
     "fajr": "04:59",
     "sunrise": "05:29",
@@ -1430,7 +1430,7 @@
   {
     "id": 120,
     "gregorian_date": "30-04-2024",
-    "hijri_date": "18-09-1443",
+    "hijri_date": "18-09-1445",
     "imsak": "03:38",
     "fajr": "04:57",
     "sunrise": "05:27",
@@ -1442,7 +1442,7 @@
   {
     "id": 121,
     "gregorian_date": "01-05-2024",
-    "hijri_date": "19-09-1443",
+    "hijri_date": "19-09-1445",
     "imsak": "03:37",
     "fajr": "04:56",
     "sunrise": "05:26",
@@ -1454,7 +1454,7 @@
   {
     "id": 122,
     "gregorian_date": "02-05-2024",
-    "hijri_date": "20-09-1443",
+    "hijri_date": "20-09-1445",
     "imsak": "03:35",
     "fajr": "04:55",
     "sunrise": "05:25",
@@ -1466,7 +1466,7 @@
   {
     "id": 123,
     "gregorian_date": "03-05-2024",
-    "hijri_date": "21-09-1443",
+    "hijri_date": "21-09-1445",
     "imsak": "03:33",
     "fajr": "04:53",
     "sunrise": "05:23",
@@ -1478,7 +1478,7 @@
   {
     "id": 124,
     "gregorian_date": "04-05-2024",
-    "hijri_date": "22-09-1443",
+    "hijri_date": "22-09-1445",
     "imsak": "03:31",
     "fajr": "04:52",
     "sunrise": "05:22",
@@ -1490,7 +1490,7 @@
   {
     "id": 125,
     "gregorian_date": "05-05-2024",
-    "hijri_date": "23-09-1443",
+    "hijri_date": "23-09-1445",
     "imsak": "03:29",
     "fajr": "04:51",
     "sunrise": "05:21",
@@ -1502,7 +1502,7 @@
   {
     "id": 126,
     "gregorian_date": "06-05-2024",
-    "hijri_date": "24-09-1443",
+    "hijri_date": "24-09-1445",
     "imsak": "03:25",
     "fajr": "04:50",
     "sunrise": "05:20",
@@ -1514,7 +1514,7 @@
   {
     "id": 127,
     "gregorian_date": "07-05-2024",
-    "hijri_date": "25-09-1443",
+    "hijri_date": "25-09-1445",
     "imsak": "03:25",
     "fajr": "04:48",
     "sunrise": "05:18",
@@ -1526,7 +1526,7 @@
   {
     "id": 128,
     "gregorian_date": "08-05-2024",
-    "hijri_date": "26-09-1443",
+    "hijri_date": "26-09-1445",
     "imsak": "03:24",
     "fajr": "04:47",
     "sunrise": "05:17",
@@ -1538,7 +1538,7 @@
   {
     "id": 129,
     "gregorian_date": "09-05-2024",
-    "hijri_date": "27-09-1443",
+    "hijri_date": "27-09-1445",
     "imsak": "03:22",
     "fajr": "04:46",
     "sunrise": "05:16",
@@ -1550,7 +1550,7 @@
   {
     "id": 130,
     "gregorian_date": "10-05-2024",
-    "hijri_date": "28-09-1443",
+    "hijri_date": "28-09-1445",
     "imsak": "03:20",
     "fajr": "04:45",
     "sunrise": "05:15",
@@ -1562,7 +1562,7 @@
   {
     "id": 131,
     "gregorian_date": "11-05-2024",
-    "hijri_date": "29-09-1443",
+    "hijri_date": "29-09-1445",
     "imsak": "03:18",
     "fajr": "04:44",
     "sunrise": "05:14",
@@ -1574,7 +1574,7 @@
   {
     "id": 132,
     "gregorian_date": "12-05-2024",
-    "hijri_date": "30-09-1443",
+    "hijri_date": "30-09-1445",
     "imsak": "03:17",
     "fajr": "04:43",
     "sunrise": "05:13",
@@ -1586,7 +1586,7 @@
   {
     "id": 133,
     "gregorian_date": "13-05-2024",
-    "hijri_date": "01-10-1443",
+    "hijri_date": "01-10-1445",
     "imsak": "03:15",
     "fajr": "04:41",
     "sunrise": "05:11",
@@ -1598,7 +1598,7 @@
   {
     "id": 134,
     "gregorian_date": "14-05-2024",
-    "hijri_date": "02-10-1443",
+    "hijri_date": "02-10-1445",
     "imsak": "03:13",
     "fajr": "04:40",
     "sunrise": "05:10",
@@ -1610,7 +1610,7 @@
   {
     "id": 135,
     "gregorian_date": "15-05-2024",
-    "hijri_date": "03-10-1443",
+    "hijri_date": "03-10-1445",
     "imsak": "03:12",
     "fajr": "04:39",
     "sunrise": "05:09",
@@ -1622,7 +1622,7 @@
   {
     "id": 136,
     "gregorian_date": "16-05-2024",
-    "hijri_date": "04-10-1443",
+    "hijri_date": "04-10-1445",
     "imsak": "03:10",
     "fajr": "04:38",
     "sunrise": "05:08",
@@ -1634,7 +1634,7 @@
   {
     "id": 137,
     "gregorian_date": "17-05-2024",
-    "hijri_date": "05-10-1443",
+    "hijri_date": "05-10-1445",
     "imsak": "03:08",
     "fajr": "04:37",
     "sunrise": "05:07",
@@ -1646,7 +1646,7 @@
   {
     "id": 138,
     "gregorian_date": "18-05-2024",
-    "hijri_date": "06-10-1443",
+    "hijri_date": "06-10-1445",
     "imsak": "03:07",
     "fajr": "04:36",
     "sunrise": "05:06",
@@ -1658,7 +1658,7 @@
   {
     "id": 139,
     "gregorian_date": "19-05-2024",
-    "hijri_date": "07-10-1443",
+    "hijri_date": "07-10-1445",
     "imsak": "03:05",
     "fajr": "04:36",
     "sunrise": "05:06",
@@ -1670,7 +1670,7 @@
   {
     "id": 140,
     "gregorian_date": "20-05-2024",
-    "hijri_date": "08-10-1443",
+    "hijri_date": "08-10-1445",
     "imsak": "03:04",
     "fajr": "04:35",
     "sunrise": "05:05",
@@ -1682,7 +1682,7 @@
   {
     "id": 141,
     "gregorian_date": "21-05-2024",
-    "hijri_date": "09-10-1443",
+    "hijri_date": "09-10-1445",
     "imsak": "03:02",
     "fajr": "04:34",
     "sunrise": "05:04",
@@ -1694,7 +1694,7 @@
   {
     "id": 142,
     "gregorian_date": "22-05-2024",
-    "hijri_date": "10-10-1443",
+    "hijri_date": "10-10-1445",
     "imsak": "03:01",
     "fajr": "04:33",
     "sunrise": "05:03",
@@ -1706,7 +1706,7 @@
   {
     "id": 143,
     "gregorian_date": "23-05-2024",
-    "hijri_date": "11-10-1443",
+    "hijri_date": "11-10-1445",
     "imsak": "03:00",
     "fajr": "04:32",
     "sunrise": "05:02",
@@ -1718,7 +1718,7 @@
   {
     "id": 144,
     "gregorian_date": "24-05-2024",
-    "hijri_date": "12-10-1443",
+    "hijri_date": "12-10-1445",
     "imsak": "02:58",
     "fajr": "04:31",
     "sunrise": "05:01",
@@ -1730,7 +1730,7 @@
   {
     "id": 145,
     "gregorian_date": "25-05-2024",
-    "hijri_date": "13-10-1443",
+    "hijri_date": "13-10-1445",
     "imsak": "02:57",
     "fajr": "04:31",
     "sunrise": "05:01",
@@ -1742,7 +1742,7 @@
   {
     "id": 146,
     "gregorian_date": "26-05-2024",
-    "hijri_date": "14-10-1443",
+    "hijri_date": "14-10-1445",
     "imsak": "02:56",
     "fajr": "04:30",
     "sunrise": "05:00",
@@ -1754,7 +1754,7 @@
   {
     "id": 147,
     "gregorian_date": "27-05-2024",
-    "hijri_date": "15-10-1443",
+    "hijri_date": "15-10-1445",
     "imsak": "02:54",
     "fajr": "04:29",
     "sunrise": "04:59",
@@ -1766,7 +1766,7 @@
   {
     "id": 148,
     "gregorian_date": "28-05-2024",
-    "hijri_date": "16-10-1443",
+    "hijri_date": "16-10-1445",
     "imsak": "02:53",
     "fajr": "04:29",
     "sunrise": "04:59",
@@ -1778,7 +1778,7 @@
   {
     "id": 149,
     "gregorian_date": "29-05-2024",
-    "hijri_date": "17-10-1443",
+    "hijri_date": "17-10-1445",
     "imsak": "02:52",
     "fajr": "04:28",
     "sunrise": "04:58",
@@ -1790,7 +1790,7 @@
   {
     "id": 150,
     "gregorian_date": "30-05-2024",
-    "hijri_date": "18-10-1443",
+    "hijri_date": "18-10-1445",
     "imsak": "02:51",
     "fajr": "04:28",
     "sunrise": "04:58",
@@ -1802,7 +1802,7 @@
   {
     "id": 151,
     "gregorian_date": "31-05-2024",
-    "hijri_date": "19-10-1443",
+    "hijri_date": "19-10-1445",
     "imsak": "02:50",
     "fajr": "04:27",
     "sunrise": "04:57",
@@ -1814,7 +1814,7 @@
   {
     "id": 152,
     "gregorian_date": "01-06-2024",
-    "hijri_date": "20-10-1443",
+    "hijri_date": "20-10-1445",
     "imsak": "02:49",
     "fajr": "04:26",
     "sunrise": "04:56",
@@ -1826,7 +1826,7 @@
   {
     "id": 153,
     "gregorian_date": "02-06-2024",
-    "hijri_date": "21-10-1443",
+    "hijri_date": "21-10-1445",
     "imsak": "02:48",
     "fajr": "04:26",
     "sunrise": "04:56",
@@ -1838,7 +1838,7 @@
   {
     "id": 154,
     "gregorian_date": "03-06-2024",
-    "hijri_date": "22-10-1443",
+    "hijri_date": "22-10-1445",
     "imsak": "02:47",
     "fajr": "04:26",
     "sunrise": "04:56",
@@ -1850,7 +1850,7 @@
   {
     "id": 155,
     "gregorian_date": "04-06-2024",
-    "hijri_date": "23-10-1443",
+    "hijri_date": "23-10-1445",
     "imsak": "02:46",
     "fajr": "04:25",
     "sunrise": "04:55",
@@ -1862,7 +1862,7 @@
   {
     "id": 156,
     "gregorian_date": "05-06-2024",
-    "hijri_date": "24-10-1443",
+    "hijri_date": "24-10-1445",
     "imsak": "02:45",
     "fajr": "02:25",
     "sunrise": "04:55",
@@ -1874,7 +1874,7 @@
   {
     "id": 157,
     "gregorian_date": "06-06-2024",
-    "hijri_date": "25-10-1443",
+    "hijri_date": "25-10-1445",
     "imsak": "02:45",
     "fajr": "04:24",
     "sunrise": "04:54",
@@ -1886,7 +1886,7 @@
   {
     "id": 158,
     "gregorian_date": "07-06-2024",
-    "hijri_date": "26-10-1443",
+    "hijri_date": "26-10-1445",
     "imsak": "02:44",
     "fajr": "04:24",
     "sunrise": "04:54",
@@ -1898,7 +1898,7 @@
   {
     "id": 159,
     "gregorian_date": "08-06-2024",
-    "hijri_date": "27-10-1443",
+    "hijri_date": "27-10-1445",
     "imsak": "02:43",
     "fajr": "04:24",
     "sunrise": "04:54",
@@ -1910,7 +1910,7 @@
   {
     "id": 160,
     "gregorian_date": "09-06-2024",
-    "hijri_date": "28-10-1443",
+    "hijri_date": "28-10-1445",
     "imsak": "02:43",
     "fajr": "04:24",
     "sunrise": "04:54",
@@ -1922,7 +1922,7 @@
   {
     "id": 161,
     "gregorian_date": "10-06-2024",
-    "hijri_date": "29-10-1443",
+    "hijri_date": "29-10-1445",
     "imsak": "02:42",
     "fajr": "04:23",
     "sunrise": "04:53",
@@ -1934,7 +1934,7 @@
   {
     "id": 162,
     "gregorian_date": "11-06-2024",
-    "hijri_date": "01-11-1443",
+    "hijri_date": "01-11-1445",
     "imsak": "02:42",
     "fajr": "04:23",
     "sunrise": "04:53",
@@ -1946,7 +1946,7 @@
   {
     "id": 163,
     "gregorian_date": "12-06-2024",
-    "hijri_date": "02-11-1443",
+    "hijri_date": "02-11-1445",
     "imsak": "02:41",
     "fajr": "04:23",
     "sunrise": "04:53",
@@ -1958,7 +1958,7 @@
   {
     "id": 164,
     "gregorian_date": "13-06-2024",
-    "hijri_date": "03-11-1443",
+    "hijri_date": "03-11-1445",
     "imsak": "02:41",
     "fajr": "04:23",
     "sunrise": "04:53",
@@ -1970,7 +1970,7 @@
   {
     "id": 165,
     "gregorian_date": "14-06-2024",
-    "hijri_date": "04-11-1443",
+    "hijri_date": "04-11-1445",
     "imsak": "02:41",
     "fajr": "04:23",
     "sunrise": "04:53",
@@ -1982,7 +1982,7 @@
   {
     "id": 166,
     "gregorian_date": "15-06-2024",
-    "hijri_date": "05-11-1443",
+    "hijri_date": "05-11-1445",
     "imsak": "02:41",
     "fajr": "04:23",
     "sunrise": "04:53",
@@ -1994,7 +1994,7 @@
   {
     "id": 167,
     "gregorian_date": "16-06-2024",
-    "hijri_date": "06-11-1443",
+    "hijri_date": "06-11-1445",
     "imsak": "02:40",
     "fajr": "04:23",
     "sunrise": "04:53",
@@ -2006,7 +2006,7 @@
   {
     "id": 168,
     "gregorian_date": "17-06-2024",
-    "hijri_date": "07-11-1443",
+    "hijri_date": "07-11-1445",
     "imsak": "02:40",
     "fajr": "04:23",
     "sunrise": "04:53",
@@ -2018,7 +2018,7 @@
   {
     "id": 169,
     "gregorian_date": "18-06-2024",
-    "hijri_date": "08-11-1443",
+    "hijri_date": "08-11-1445",
     "imsak": "02:40",
     "fajr": "04:23",
     "sunrise": "04:53",
@@ -2030,7 +2030,7 @@
   {
     "id": 170,
     "gregorian_date": "19-06-2024",
-    "hijri_date": "09-11-1443",
+    "hijri_date": "09-11-1445",
     "imsak": "02:40",
     "fajr": "04:23",
     "sunrise": "04:53",
@@ -2042,7 +2042,7 @@
   {
     "id": 171,
     "gregorian_date": "20-06-2024",
-    "hijri_date": "10-11-1443",
+    "hijri_date": "10-11-1445",
     "imsak": "02:41",
     "fajr": "04:23",
     "sunrise": "04:53",
@@ -2054,7 +2054,7 @@
   {
     "id": 172,
     "gregorian_date": "21-06-2024",
-    "hijri_date": "11-11-1443",
+    "hijri_date": "11-11-1445",
     "imsak": "02:41",
     "fajr": "04:24",
     "sunrise": "04:54",
@@ -2066,7 +2066,7 @@
   {
     "id": 173,
     "gregorian_date": "22-06-2024",
-    "hijri_date": "12-11-1443",
+    "hijri_date": "12-11-1445",
     "imsak": "02:41",
     "fajr": "04:24",
     "sunrise": "04:54",
@@ -2078,7 +2078,7 @@
   {
     "id": 174,
     "gregorian_date": "23-06-2024",
-    "hijri_date": "13-11-1443",
+    "hijri_date": "13-11-1445",
     "imsak": "02:41",
     "fajr": "04:24",
     "sunrise": "04:54",
@@ -2090,7 +2090,7 @@
   {
     "id": 175,
     "gregorian_date": "24-06-2024",
-    "hijri_date": "14-11-1443",
+    "hijri_date": "14-11-1445",
     "imsak": "02:42",
     "fajr": "04:24",
     "sunrise": "04:54",
@@ -2102,7 +2102,7 @@
   {
     "id": 176,
     "gregorian_date": "25-06-2024",
-    "hijri_date": "15-11-1443",
+    "hijri_date": "15-11-1445",
     "imsak": "02:42",
     "fajr": "04:25",
     "sunrise": "04:55",
@@ -2114,7 +2114,7 @@
   {
     "id": 177,
     "gregorian_date": "26-06-2024",
-    "hijri_date": "16-11-1443",
+    "hijri_date": "16-11-1445",
     "imsak": "02:43",
     "fajr": "04:25",
     "sunrise": "04:55",
@@ -2126,7 +2126,7 @@
   {
     "id": 178,
     "gregorian_date": "27-06-2024",
-    "hijri_date": "17-11-1443",
+    "hijri_date": "17-11-1445",
     "imsak": "02:43",
     "fajr": "04:25",
     "sunrise": "04:55",
@@ -2138,7 +2138,7 @@
   {
     "id": 179,
     "gregorian_date": "28-06-2024",
-    "hijri_date": "18-11-1443",
+    "hijri_date": "18-11-1445",
     "imsak": "02:44",
     "fajr": "04:26",
     "sunrise": "04:56",
@@ -2150,7 +2150,7 @@
   {
     "id": 180,
     "gregorian_date": "29-06-2024",
-    "hijri_date": "19-11-1443",
+    "hijri_date": "19-11-1445",
     "imsak": "02:45",
     "fajr": "04:26",
     "sunrise": "04:56",
@@ -2162,7 +2162,7 @@
   {
     "id": 181,
     "gregorian_date": "30-06-2024",
-    "hijri_date": "20-11-1443",
+    "hijri_date": "20-11-1445",
     "imsak": "02:45",
     "fajr": "04:27",
     "sunrise": "04:57",
@@ -2174,7 +2174,7 @@
   {
     "id": 182,
     "gregorian_date": "01-07-2024",
-    "hijri_date": "21-11-1443",
+    "hijri_date": "21-11-1445",
     "imsak": "02:46",
     "fajr": "04:27",
     "sunrise": "04:57",
@@ -2186,7 +2186,7 @@
   {
     "id": 183,
     "gregorian_date": "02-07-2024",
-    "hijri_date": "22-11-1443",
+    "hijri_date": "22-11-1445",
     "imsak": "02:47",
     "fajr": "04:28",
     "sunrise": "04:58",
@@ -2198,7 +2198,7 @@
   {
     "id": 184,
     "gregorian_date": "03-07-2024",
-    "hijri_date": "23-11-1443",
+    "hijri_date": "23-11-1445",
     "imsak": "02:48",
     "fajr": "04:28",
     "sunrise": "04:58",
@@ -2210,7 +2210,7 @@
   {
     "id": 185,
     "gregorian_date": "04-07-2024",
-    "hijri_date": "24-11-1443",
+    "hijri_date": "24-11-1445",
     "imsak": "02:49",
     "fajr": "04:29",
     "sunrise": "04:59",
@@ -2222,7 +2222,7 @@
   {
     "id": 186,
     "gregorian_date": "05-07-2024",
-    "hijri_date": "25-11-1443",
+    "hijri_date": "25-11-1445",
     "imsak": "02:50",
     "fajr": "04:29",
     "sunrise": "04:59",
@@ -2234,7 +2234,7 @@
   {
     "id": 187,
     "gregorian_date": "06-07-2024",
-    "hijri_date": "26-11-1443",
+    "hijri_date": "26-11-1445",
     "imsak": "02:51",
     "fajr": "04:30",
     "sunrise": "05:00",
@@ -2246,7 +2246,7 @@
   {
     "id": 188,
     "gregorian_date": "07-07-2024",
-    "hijri_date": "27-11-1443",
+    "hijri_date": "27-11-1445",
     "imsak": "02:52",
     "fajr": "04:31",
     "sunrise": "05:01",
@@ -2258,7 +2258,7 @@
   {
     "id": 189,
     "gregorian_date": "08-07-2024",
-    "hijri_date": "28-11-1443",
+    "hijri_date": "28-11-1445",
     "imsak": "02:53",
     "fajr": "04:31",
     "sunrise": "05:01",
@@ -2270,7 +2270,7 @@
   {
     "id": 190,
     "gregorian_date": "09-07-2024",
-    "hijri_date": "29-11-1443",
+    "hijri_date": "29-11-1445",
     "imsak": "02:54",
     "fajr": "04:32",
     "sunrise": "05:02",
@@ -2282,7 +2282,7 @@
   {
     "id": 191,
     "gregorian_date": "10-07-2024",
-    "hijri_date": "30-11-1443",
+    "hijri_date": "30-11-1445",
     "imsak": "02:55",
     "fajr": "04:33",
     "sunrise": "05:03",
@@ -2294,7 +2294,7 @@
   {
     "id": 192,
     "gregorian_date": "11-07-2024",
-    "hijri_date": "01-12-1443",
+    "hijri_date": "01-12-1445",
     "imsak": "02:57",
     "fajr": "04:33",
     "sunrise": "05:03",
@@ -2306,7 +2306,7 @@
   {
     "id": 193,
     "gregorian_date": "12-07-2024",
-    "hijri_date": "02-12-1443",
+    "hijri_date": "02-12-1445",
     "imsak": "02:58",
     "fajr": "04:34",
     "sunrise": "05:04",
@@ -2318,7 +2318,7 @@
   {
     "id": 194,
     "gregorian_date": "13-07-2024",
-    "hijri_date": "03-12-1443",
+    "hijri_date": "03-12-1445",
     "imsak": "02:59",
     "fajr": "04:35",
     "sunrise": "05:05",
@@ -2330,7 +2330,7 @@
   {
     "id": 195,
     "gregorian_date": "14-07-2024",
-    "hijri_date": "04-12-1443",
+    "hijri_date": "04-12-1445",
     "imsak": "03:01",
     "fajr": "04:36",
     "sunrise": "05:06",
@@ -2342,7 +2342,7 @@
   {
     "id": 196,
     "gregorian_date": "15-07-2024",
-    "hijri_date": "05-12-1443",
+    "hijri_date": "05-12-1445",
     "imsak": "03:02",
     "fajr": "04:36",
     "sunrise": "05:06",
@@ -2354,7 +2354,7 @@
   {
     "id": 197,
     "gregorian_date": "16-07-2024",
-    "hijri_date": "06-12-1443",
+    "hijri_date": "06-12-1445",
     "imsak": "03:03",
     "fajr": "04:37",
     "sunrise": "05:07",
@@ -2366,7 +2366,7 @@
   {
     "id": 198,
     "gregorian_date": "17-07-2024",
-    "hijri_date": "07-12-1443",
+    "hijri_date": "07-12-1445",
     "imsak": "03:05",
     "fajr": "04:38",
     "sunrise": "05:08",
@@ -2378,7 +2378,7 @@
   {
     "id": 199,
     "gregorian_date": "18-07-2024",
-    "hijri_date": "08-12-1443",
+    "hijri_date": "08-12-1445",
     "imsak": "03:06",
     "fajr": "04:39",
     "sunrise": "05:09",
@@ -2390,7 +2390,7 @@
   {
     "id": 200,
     "gregorian_date": "19-07-2024",
-    "hijri_date": "09-12-1443",
+    "hijri_date": "09-12-1445",
     "imsak": "03:08",
     "fajr": "04:40",
     "sunrise": "05:10",
@@ -2402,7 +2402,7 @@
   {
     "id": 201,
     "gregorian_date": "20-07-2024",
-    "hijri_date": "10-12-1443",
+    "hijri_date": "10-12-1445",
     "imsak": "03:09",
     "fajr": "04:41",
     "sunrise": "05:11",
@@ -2414,7 +2414,7 @@
   {
     "id": 202,
     "gregorian_date": "21-07-2024",
-    "hijri_date": "11-12-1443",
+    "hijri_date": "11-12-1445",
     "imsak": "03:11",
     "fajr": "04:41",
     "sunrise": "05:11",
@@ -2426,7 +2426,7 @@
   {
     "id": 203,
     "gregorian_date": "22-07-2024",
-    "hijri_date": "12-12-1443",
+    "hijri_date": "12-12-1445",
     "imsak": "03:12",
     "fajr": "04:42",
     "sunrise": "05:12",
@@ -2438,7 +2438,7 @@
   {
     "id": 204,
     "gregorian_date": "23-07-2024",
-    "hijri_date": "13-12-1443",
+    "hijri_date": "13-12-1445",
     "imsak": "03:14",
     "fajr": "04:43",
     "sunrise": "05:13",
@@ -2450,7 +2450,7 @@
   {
     "id": 205,
     "gregorian_date": "24-07-2024",
-    "hijri_date": "14-12-1443",
+    "hijri_date": "14-12-1445",
     "imsak": "03:15",
     "fajr": "04:44",
     "sunrise": "05:14",
@@ -2462,7 +2462,7 @@
   {
     "id": 206,
     "gregorian_date": "25-07-2024",
-    "hijri_date": "15-12-1443",
+    "hijri_date": "15-12-1445",
     "imsak": "03:17",
     "fajr": "04:45",
     "sunrise": "05:15",
@@ -2474,7 +2474,7 @@
   {
     "id": 207,
     "gregorian_date": "26-07-2024",
-    "hijri_date": "16-12-1443",
+    "hijri_date": "16-12-1445",
     "imsak": "03:19",
     "fajr": "04:46",
     "sunrise": "05:16",
@@ -2486,7 +2486,7 @@
   {
     "id": 208,
     "gregorian_date": "27-07-2024",
-    "hijri_date": "17-12-1443",
+    "hijri_date": "17-12-1445",
     "imsak": "03:20",
     "fajr": "04:47",
     "sunrise": "05:17",
@@ -2498,7 +2498,7 @@
   {
     "id": 209,
     "gregorian_date": "28-07-2024",
-    "hijri_date": "18-12-1443",
+    "hijri_date": "18-12-1445",
     "imsak": "03:22",
     "fajr": "04:48",
     "sunrise": "05:18",
@@ -2510,7 +2510,7 @@
   {
     "id": 210,
     "gregorian_date": "29-07-2024",
-    "hijri_date": "19-12-1443",
+    "hijri_date": "19-12-1445",
     "imsak": "03:23",
     "fajr": "04:49",
     "sunrise": "05:19",
@@ -2522,7 +2522,7 @@
   {
     "id": 211,
     "gregorian_date": "30-07-2024",
-    "hijri_date": "20-12-1443",
+    "hijri_date": "20-12-1445",
     "imsak": "03:25",
     "fajr": "04:50",
     "sunrise": "05:20",
@@ -2534,7 +2534,7 @@
   {
     "id": 212,
     "gregorian_date": "31-07-2024",
-    "hijri_date": "21-12-1443",
+    "hijri_date": "21-12-1445",
     "imsak": "03:27",
     "fajr": "04:51",
     "sunrise": "05:21",
@@ -2546,7 +2546,7 @@
   {
     "id": 213,
     "gregorian_date": "01-08-2024",
-    "hijri_date": "22-12-1443",
+    "hijri_date": "22-12-1445",
     "imsak": "03:28",
     "fajr": "04:52",
     "sunrise": "05:22",
@@ -2558,7 +2558,7 @@
   {
     "id": 214,
     "gregorian_date": "02-08-2024",
-    "hijri_date": "23-12-1443",
+    "hijri_date": "23-12-1445",
     "imsak": "03:30",
     "fajr": "04:53",
     "sunrise": "05:23",
@@ -2570,7 +2570,7 @@
   {
     "id": 215,
     "gregorian_date": "03-08-2024",
-    "hijri_date": "24-12-1443",
+    "hijri_date": "24-12-1445",
     "imsak": "03:31",
     "fajr": "04:54",
     "sunrise": "05:24",
@@ -2582,7 +2582,7 @@
   {
     "id": 216,
     "gregorian_date": "04-08-2024",
-    "hijri_date": "25-12-1443",
+    "hijri_date": "25-12-1445",
     "imsak": "03:33",
     "fajr": "04:55",
     "sunrise": "05:25",
@@ -2594,7 +2594,7 @@
   {
     "id": 217,
     "gregorian_date": "05-08-2024",
-    "hijri_date": "26-12-1443",
+    "hijri_date": "26-12-1445",
     "imsak": "03:35",
     "fajr": "04:56",
     "sunrise": "05:26",
@@ -2606,7 +2606,7 @@
   {
     "id": 218,
     "gregorian_date": "06-08-2024",
-    "hijri_date": "27-12-1443",
+    "hijri_date": "27-12-1445",
     "imsak": "03:36",
     "fajr": "04:57",
     "sunrise": "05:27",
@@ -2618,7 +2618,7 @@
   {
     "id": 219,
     "gregorian_date": "07-08-2024",
-    "hijri_date": "28-12-1443",
+    "hijri_date": "28-12-1445",
     "imsak": "03:38",
     "fajr": "04:58",
     "sunrise": "05:28",
@@ -2630,7 +2630,7 @@
   {
     "id": 220,
     "gregorian_date": "08-08-2024",
-    "hijri_date": "29-12-1443",
+    "hijri_date": "29-12-1445",
     "imsak": "03:40",
     "fajr": "04:59",
     "sunrise": "05:29",
@@ -2642,7 +2642,7 @@
   {
     "id": 221,
     "gregorian_date": "09-08-2024",
-    "hijri_date": "01-01-1444",
+    "hijri_date": "01-01-1446",
     "imsak": "03:41",
     "fajr": "05:00",
     "sunrise": "05:30",
@@ -2654,7 +2654,7 @@
   {
     "id": 222,
     "gregorian_date": "10-08-2024",
-    "hijri_date": "02-01-1444",
+    "hijri_date": "02-01-1446",
     "imsak": "03:43",
     "fajr": "05:01",
     "sunrise": "05:31",
@@ -2666,7 +2666,7 @@
   {
     "id": 223,
     "gregorian_date": "11-08-2024",
-    "hijri_date": "03-01-1444",
+    "hijri_date": "03-01-1446",
     "imsak": "03:44",
     "fajr": "05:02",
     "sunrise": "05:32",
@@ -2678,7 +2678,7 @@
   {
     "id": 224,
     "gregorian_date": "12-08-2024",
-    "hijri_date": "04-01-1444",
+    "hijri_date": "04-01-1446",
     "imsak": "03:46",
     "fajr": "05:03",
     "sunrise": "05:33",
@@ -2690,7 +2690,7 @@
   {
     "id": 225,
     "gregorian_date": "13-08-2024",
-    "hijri_date": "05-01-1444",
+    "hijri_date": "05-01-1446",
     "dhuhr": "12:46",
     "imsak": "03:47",
     "fajr": "05:04",
@@ -2702,7 +2702,7 @@
   {
     "id": 226,
     "gregorian_date": "14-08-2024",
-    "hijri_date": "06-01-1444",
+    "hijri_date": "06-01-1446",
     "imsak": "03:49",
     "fajr": "05:05",
     "sunrise": "05:35",
@@ -2714,7 +2714,7 @@
   {
     "id": 227,
     "gregorian_date": "15-08-2024",
-    "hijri_date": "07-01-1444",
+    "hijri_date": "07-01-1446",
     "imsak": "03:51",
     "fajr": "05:06",
     "sunrise": "05:36",
@@ -2726,7 +2726,7 @@
   {
     "id": 228,
     "gregorian_date": "16-08-2024",
-    "hijri_date": "08-01-1444",
+    "hijri_date": "08-01-1446",
     "imsak": "03:52",
     "fajr": "05:07",
     "sunrise": "05:37",
@@ -2738,7 +2738,7 @@
   {
     "id": 229,
     "gregorian_date": "17-08-2024",
-    "hijri_date": "09-01-1444",
+    "hijri_date": "09-01-1446",
     "imsak": "03:54",
     "fajr": "05:08",
     "sunrise": "05:38",
@@ -2750,7 +2750,7 @@
   {
     "id": 230,
     "gregorian_date": "18-08-2024",
-    "hijri_date": "10-01-1444",
+    "hijri_date": "10-01-1446",
     "imsak": "03:55",
     "fajr": "05:09",
     "sunrise": "05:39",
@@ -2762,7 +2762,7 @@
   {
     "id": 231,
     "gregorian_date": "19-08-2024",
-    "hijri_date": "11-01-1444",
+    "hijri_date": "11-01-1446",
     "imsak": "03:57",
     "fajr": "05:11",
     "sunrise": "05:41",
@@ -2774,7 +2774,7 @@
   {
     "id": 232,
     "gregorian_date": "20-08-2024",
-    "hijri_date": "12-01-1444",
+    "hijri_date": "12-01-1446",
     "imsak": "03:58",
     "fajr": "05:12",
     "sunrise": "05:42",
@@ -2786,7 +2786,7 @@
   {
     "id": 233,
     "gregorian_date": "21-08-2024",
-    "hijri_date": "13-01-1444",
+    "hijri_date": "13-01-1446",
     "imsak": "04:00",
     "fajr": "05:13",
     "sunrise": "05:43",
@@ -2798,7 +2798,7 @@
   {
     "id": 234,
     "gregorian_date": "22-08-2024",
-    "hijri_date": "14-01-1444",
+    "hijri_date": "14-01-1446",
     "imsak": "04:01",
     "fajr": "05:14",
     "sunrise": "05:44",
@@ -2810,7 +2810,7 @@
   {
     "id": 235,
     "gregorian_date": "23-08-2024",
-    "hijri_date": "15-01-1444",
+    "hijri_date": "15-01-1446",
     "imsak": "04:03",
     "fajr": "05:15",
     "sunrise": "05:45",
@@ -2822,7 +2822,7 @@
   {
     "id": 236,
     "gregorian_date": "24-08-2024",
-    "hijri_date": "16-01-1444",
+    "hijri_date": "16-01-1446",
     "imsak": "04:04",
     "fajr": "05:16",
     "sunrise": "05:46",
@@ -2834,7 +2834,7 @@
   {
     "id": 237,
     "gregorian_date": "25-08-2024",
-    "hijri_date": "17-01-1444",
+    "hijri_date": "17-01-1446",
     "imsak": "04:06",
     "fajr": "05:17",
     "sunrise": "05:47",
@@ -2846,7 +2846,7 @@
   {
     "id": 238,
     "gregorian_date": "26-08-2024",
-    "hijri_date": "18-01-1444",
+    "hijri_date": "18-01-1446",
     "imsak": "04:07",
     "fajr": "05:18",
     "sunrise": "05:48",
@@ -2858,7 +2858,7 @@
   {
     "id": 239,
     "gregorian_date": "27-08-2024",
-    "hijri_date": "19-01-1444",
+    "hijri_date": "19-01-1446",
     "imsak": "04:09",
     "fajr": "05:19",
     "sunrise": "05:49",
@@ -2870,7 +2870,7 @@
   {
     "id": 240,
     "gregorian_date": "28-08-2024",
-    "hijri_date": "20-01-1444",
+    "hijri_date": "20-01-1446",
     "imsak": "04:10",
     "fajr": "05:20",
     "sunrise": "05:50",
@@ -2882,7 +2882,7 @@
   {
     "id": 241,
     "gregorian_date": "29-08-2024",
-    "hijri_date": "21-01-1444",
+    "hijri_date": "21-01-1446",
     "imsak": "04:11",
     "fajr": "05:21",
     "sunrise": "05:51",
@@ -2894,7 +2894,7 @@
   {
     "id": 242,
     "gregorian_date": "30-08-2024",
-    "hijri_date": "22-01-1444",
+    "hijri_date": "22-01-1446",
     "imsak": "04:13",
     "fajr": "05:22",
     "sunrise": "05:52",
@@ -2906,7 +2906,7 @@
   {
     "id": 243,
     "gregorian_date": "31-08-2024",
-    "hijri_date": "23-01-1444",
+    "hijri_date": "23-01-1446",
     "imsak": "04:14",
     "fajr": "05:23",
     "sunrise": "05:53",
@@ -2918,7 +2918,7 @@
   {
     "id": 244,
     "gregorian_date": "01-09-2024",
-    "hijri_date": "24-01-1444",
+    "hijri_date": "24-01-1446",
     "imsak": "04:16",
     "fajr": "05:24",
     "sunrise": "05:54",
@@ -2930,7 +2930,7 @@
   {
     "id": 245,
     "gregorian_date": "02-09-2024",
-    "hijri_date": "25-01-1444",
+    "hijri_date": "25-01-1446",
     "imsak": "04:17",
     "fajr": "05:25",
     "sunrise": "05:55",
@@ -2942,7 +2942,7 @@
   {
     "id": 246,
     "gregorian_date": "03-09-2024",
-    "hijri_date": "26-01-1444",
+    "hijri_date": "26-01-1446",
     "imsak": "04:18",
     "fajr": "05:26",
     "sunrise": "05:56",
@@ -2954,7 +2954,7 @@
   {
     "id": 247,
     "gregorian_date": "04-09-2024",
-    "hijri_date": "27-01-1444",
+    "hijri_date": "27-01-1446",
     "imsak": "04:20",
     "fajr": "05:27",
     "sunrise": "05:57",
@@ -2966,7 +2966,7 @@
   {
     "id": 248,
     "gregorian_date": "05-09-2024",
-    "hijri_date": "28-01-1444",
+    "hijri_date": "28-01-1446",
     "imsak": "04:21",
     "fajr": "05:28",
     "sunrise": "05:58",
@@ -2978,7 +2978,7 @@
   {
     "id": 249,
     "gregorian_date": "06-09-2024",
-    "hijri_date": "29-01-1444",
+    "hijri_date": "29-01-1446",
     "imsak": "04:22",
     "fajr": "05:29",
     "sunrise": "05:59",
@@ -2990,7 +2990,7 @@
   {
     "id": 250,
     "gregorian_date": "07-09-2024",
-    "hijri_date": "30-01-1444",
+    "hijri_date": "30-01-1446",
     "imsak": "04:24",
     "fajr": "05:30",
     "sunrise": "06:00",
@@ -3002,7 +3002,7 @@
   {
     "id": 251,
     "gregorian_date": "08-09-2024",
-    "hijri_date": "01-02-1444",
+    "hijri_date": "01-02-1446",
     "imsak": "04:25",
     "fajr": "05:31",
     "sunrise": "06:01",
@@ -3014,7 +3014,7 @@
   {
     "id": 252,
     "gregorian_date": "09-09-2024",
-    "hijri_date": "02-02-1444",
+    "hijri_date": "02-02-1446",
     "imsak": "04:26",
     "fajr": "05:32",
     "sunrise": "06:02",
@@ -3026,7 +3026,7 @@
   {
     "id": 253,
     "gregorian_date": "10-09-2024",
-    "hijri_date": "03-02-1444",
+    "hijri_date": "03-02-1446",
     "imsak": "04:28",
     "fajr": "05:33",
     "sunrise": "06:03",
@@ -3038,7 +3038,7 @@
   {
     "id": 254,
     "gregorian_date": "11-09-2024",
-    "hijri_date": "04-02-1444",
+    "hijri_date": "04-02-1446",
     "imsak": "04:29",
     "fajr": "05:34",
     "sunrise": "06:04",
@@ -3050,7 +3050,7 @@
   {
     "id": 255,
     "gregorian_date": "12-09-2024",
-    "hijri_date": "05-02-1444",
+    "hijri_date": "05-02-1446",
     "imsak": "04:30",
     "fajr": "05:35",
     "sunrise": "06:05",
@@ -3062,7 +3062,7 @@
   {
     "id": 256,
     "gregorian_date": "13-09-2024",
-    "hijri_date": "06-02-1444",
+    "hijri_date": "06-02-1446",
     "imsak": "04:32",
     "fajr": "05:36",
     "sunrise": "06:06",
@@ -3074,7 +3074,7 @@
   {
     "id": 257,
     "gregorian_date": "14-09-2024",
-    "hijri_date": "07-02-1444",
+    "hijri_date": "07-02-1446",
     "imsak": "04:33",
     "fajr": "05:38",
     "sunrise": "06:08",
@@ -3086,7 +3086,7 @@
   {
     "id": 258,
     "gregorian_date": "15-09-2024",
-    "hijri_date": "08-02-1444",
+    "hijri_date": "08-02-1446",
     "imsak": "04:34",
     "fajr": "05:39",
     "sunrise": "06:09",
@@ -3098,7 +3098,7 @@
   {
     "id": 259,
     "gregorian_date": "16-09-2024",
-    "hijri_date": "09-02-1444",
+    "hijri_date": "09-02-1446",
     "imsak": "04:35",
     "fajr": "05:40",
     "sunrise": "06:10",
@@ -3110,7 +3110,7 @@
   {
     "id": 260,
     "gregorian_date": "17-09-2024",
-    "hijri_date": "10-02-1444",
+    "hijri_date": "10-02-1446",
     "imsak": "04:37",
     "fajr": "05:41",
     "sunrise": "06:11",
@@ -3122,7 +3122,7 @@
   {
     "id": 261,
     "gregorian_date": "18-09-2024",
-    "hijri_date": "11-02-1444",
+    "hijri_date": "11-02-1446",
     "imsak": "04:38",
     "fajr": "05:42",
     "sunrise": "06:12",
@@ -3134,7 +3134,7 @@
   {
     "id": 262,
     "gregorian_date": "19-09-2024",
-    "hijri_date": "12-02-1444",
+    "hijri_date": "12-02-1446",
     "imsak": "04:39",
     "fajr": "05:43",
     "sunrise": "06:13",
@@ -3146,7 +3146,7 @@
   {
     "id": 263,
     "gregorian_date": "20-09-2024",
-    "hijri_date": "13-02-1444",
+    "hijri_date": "13-02-1446",
     "imsak": "04:40",
     "fajr": "05:44",
     "sunrise": "06:14",
@@ -3158,7 +3158,7 @@
   {
     "id": 264,
     "gregorian_date": "21-09-2024",
-    "hijri_date": "14-02-1444",
+    "hijri_date": "14-02-1446",
     "imsak": "04:41",
     "fajr": "05:45",
     "sunrise": "06:15",
@@ -3170,7 +3170,7 @@
   {
     "id": 265,
     "gregorian_date": "22-09-2024",
-    "hijri_date": "15-02-1444",
+    "hijri_date": "15-02-1446",
     "imsak": "04:43",
     "fajr": "05:46",
     "sunrise": "06:16",
@@ -3182,7 +3182,7 @@
   {
     "id": 266,
     "gregorian_date": "23-09-2024",
-    "hijri_date": "16-02-1444",
+    "hijri_date": "16-02-1446",
     "imsak": "04:44",
     "fajr": "05:47",
     "sunrise": "06:17",
@@ -3194,7 +3194,7 @@
   {
     "id": 267,
     "gregorian_date": "24-09-2024",
-    "hijri_date": "17-02-1444",
+    "hijri_date": "17-02-1446",
     "imsak": "04:45",
     "fajr": "05:48",
     "sunrise": "06:18",
@@ -3206,7 +3206,7 @@
   {
     "id": 268,
     "gregorian_date": "25-09-2024",
-    "hijri_date": "18-02-1444",
+    "hijri_date": "18-02-1446",
     "imsak": "04:46",
     "fajr": "05:49",
     "sunrise": "06:19",
@@ -3218,7 +3218,7 @@
   {
     "id": 269,
     "gregorian_date": "26-09-2024",
-    "hijri_date": "19-02-1444",
+    "hijri_date": "19-02-1446",
     "imsak": "04:47",
     "fajr": "05:50",
     "sunrise": "06:20",
@@ -3230,7 +3230,7 @@
   {
     "id": 270,
     "gregorian_date": "27-09-2024",
-    "hijri_date": "20-02-1444",
+    "hijri_date": "20-02-1446",
     "imsak": "04:49",
     "fajr": "05:51",
     "sunrise": "06:21",
@@ -3242,7 +3242,7 @@
   {
     "id": 271,
     "gregorian_date": "28-09-2024",
-    "hijri_date": "21-02-1444",
+    "hijri_date": "21-02-1446",
     "imsak": "04:50",
     "fajr": "05:52",
     "sunrise": "06:22",
@@ -3254,7 +3254,7 @@
   {
     "id": 272,
     "gregorian_date": "29-09-2024",
-    "hijri_date": "22-02-1444",
+    "hijri_date": "22-02-1446",
     "imsak": "04:51",
     "fajr": "05:53",
     "sunrise": "06:23",
@@ -3266,7 +3266,7 @@
   {
     "id": 273,
     "gregorian_date": "30-09-2024",
-    "hijri_date": "23-02-1444",
+    "hijri_date": "23-02-1446",
     "imsak": "04:52",
     "fajr": "05:54",
     "sunrise": "06:24",
@@ -3278,7 +3278,7 @@
   {
     "id": 274,
     "gregorian_date": "01-10-2024",
-    "hijri_date": "24-02-1444",
+    "hijri_date": "24-02-1446",
     "imsak": "04:53",
     "fajr": "05:55",
     "sunrise": "06:25",
@@ -3290,7 +3290,7 @@
   {
     "id": 275,
     "gregorian_date": "02-10-2024",
-    "hijri_date": "25-02-1444",
+    "hijri_date": "25-02-1446",
     "imsak": "04:54",
     "fajr": "05:56",
     "sunrise": "06:26",
@@ -3302,7 +3302,7 @@
   {
     "id": 276,
     "gregorian_date": "03-10-2024",
-    "hijri_date": "26-02-1444",
+    "hijri_date": "26-02-1446",
     "imsak": "04:55",
     "fajr": "05:58",
     "sunrise": "06:28",
@@ -3314,7 +3314,7 @@
   {
     "id": 277,
     "gregorian_date": "04-10-2024",
-    "hijri_date": "27-02-1444",
+    "hijri_date": "27-02-1446",
     "imsak": "04:57",
     "fajr": "05:59",
     "sunrise": "06:29",
@@ -3326,7 +3326,7 @@
   {
     "id": 278,
     "gregorian_date": "05-10-2024",
-    "hijri_date": "28-02-1444",
+    "hijri_date": "28-02-1446",
     "imsak": "04:58",
     "fajr": "06:00",
     "sunrise": "06:30",
@@ -3338,7 +3338,7 @@
   {
     "id": 279,
     "gregorian_date": "06-10-2024",
-    "hijri_date": "29-02-1444",
+    "hijri_date": "29-02-1446",
     "imsak": "05:00",
     "fajr": "06:01",
     "sunrise": "06:31",
@@ -3350,7 +3350,7 @@
   {
     "id": 280,
     "gregorian_date": "07-10-2024",
-    "hijri_date": "01-03-1444",
+    "hijri_date": "01-03-1446",
     "imsak": "05:07",
     "fajr": "06:02",
     "sunrise": "06:32",
@@ -3362,7 +3362,7 @@
   {
     "id": 281,
     "gregorian_date": "08-10-2024",
-    "hijri_date": "02-03-1444",
+    "hijri_date": "02-03-1446",
     "imsak": "05:01",
     "fajr": "06:03",
     "sunrise": "06:33",
@@ -3374,7 +3374,7 @@
   {
     "id": 282,
     "gregorian_date": "09-10-2024",
-    "hijri_date": "03-03-1444",
+    "hijri_date": "03-03-1446",
     "imsak": "05:02",
     "fajr": "06:04",
     "sunrise": "06:34",
@@ -3386,7 +3386,7 @@
   {
     "id": 283,
     "gregorian_date": "10-10-2024",
-    "hijri_date": "04-03-1444",
+    "hijri_date": "04-03-1446",
     "imsak": "05:03",
     "fajr": "06:05",
     "sunrise": "06:35",
@@ -3398,7 +3398,7 @@
   {
     "id": 284,
     "gregorian_date": "11-10-2024",
-    "hijri_date": "05-03-1444",
+    "hijri_date": "05-03-1446",
     "imsak": "05:04",
     "fajr": "06:06",
     "sunrise": "06:36",
@@ -3410,7 +3410,7 @@
   {
     "id": 285,
     "gregorian_date": "12-10-2024",
-    "hijri_date": "06-03-1444",
+    "hijri_date": "06-03-1446",
     "imsak": "05:05",
     "fajr": "06:07",
     "sunrise": "06:37",
@@ -3422,7 +3422,7 @@
   {
     "id": 286,
     "gregorian_date": "13-10-2024",
-    "hijri_date": "07-03-1444",
+    "hijri_date": "07-03-1446",
     "imsak": "05:07",
     "fajr": "06:09",
     "sunrise": "06:39",
@@ -3434,7 +3434,7 @@
   {
     "id": 287,
     "gregorian_date": "14-10-2024",
-    "hijri_date": "08-03-1444",
+    "hijri_date": "08-03-1446",
     "imsak": "05:08",
     "fajr": "06:10",
     "sunrise": "06:40",
@@ -3446,7 +3446,7 @@
   {
     "id": 288,
     "gregorian_date": "15-10-2024",
-    "hijri_date": "09-03-1444",
+    "hijri_date": "09-03-1446",
     "imsak": "05:09",
     "fajr": "06:11",
     "sunrise": "06:41",
@@ -3458,7 +3458,7 @@
   {
     "id": 289,
     "gregorian_date": "16-10-2024",
-    "hijri_date": "10-03-1444",
+    "hijri_date": "10-03-1446",
     "imsak": "05:10",
     "fajr": "06:12",
     "sunrise": "06:42",
@@ -3470,7 +3470,7 @@
   {
     "id": 290,
     "gregorian_date": "17-10-2024",
-    "hijri_date": "11-03-1444",
+    "hijri_date": "11-03-1446",
     "imsak": "05:11",
     "fajr": "06:13",
     "sunrise": "06:43",
@@ -3482,7 +3482,7 @@
   {
     "id": 291,
     "gregorian_date": "18-10-2024",
-    "hijri_date": "12-03-1444",
+    "hijri_date": "12-03-1446",
     "imsak": "05:12",
     "fajr": "06:14",
     "sunrise": "06:44",
@@ -3494,7 +3494,7 @@
   {
     "id": 292,
     "gregorian_date": "19-10-2024",
-    "hijri_date": "13-03-1444",
+    "hijri_date": "13-03-1446",
     "imsak": "05:13",
     "fajr": "06:15",
     "sunrise": "06:45",
@@ -3506,7 +3506,7 @@
   {
     "id": 293,
     "gregorian_date": "20-10-2024",
-    "hijri_date": "14-03-1444",
+    "hijri_date": "14-03-1446",
     "imsak": "05:14",
     "fajr": "06:17",
     "sunrise": "06:47",
@@ -3518,7 +3518,7 @@
   {
     "id": 294,
     "gregorian_date": "21-10-2024",
-    "hijri_date": "15-03-1444",
+    "hijri_date": "15-03-1446",
     "imsak": "05:15",
     "fajr": "06:18",
     "sunrise": "06:48",
@@ -3530,7 +3530,7 @@
   {
     "id": 295,
     "gregorian_date": "22-10-2024",
-    "hijri_date": "16-03-1444",
+    "hijri_date": "16-03-1446",
     "imsak": "05:16",
     "fajr": "06:19",
     "sunrise": "06:49",
@@ -3542,7 +3542,7 @@
   {
     "id": 296,
     "gregorian_date": "23-10-2024",
-    "hijri_date": "17-03-1444",
+    "hijri_date": "17-03-1446",
     "imsak": "05:18",
     "fajr": "06:20",
     "sunrise": "06:50",
@@ -3554,7 +3554,7 @@
   {
     "id": 297,
     "gregorian_date": "24-10-2024",
-    "hijri_date": "18-03-1444",
+    "hijri_date": "18-03-1446",
     "imsak": "05:19",
     "fajr": "06:21",
     "sunrise": "06:51",
@@ -3566,7 +3566,7 @@
   {
     "id": 298,
     "gregorian_date": "25-10-2024",
-    "hijri_date": "19-03-1444",
+    "hijri_date": "19-03-1446",
     "imsak": "05:20",
     "fajr": "06:23",
     "sunrise": "06:53",
@@ -3578,7 +3578,7 @@
   {
     "id": 299,
     "gregorian_date": "26-10-2024",
-    "hijri_date": "20-03-1444",
+    "hijri_date": "20-03-1446",
     "imsak": "05:21",
     "fajr": "06:24",
     "sunrise": "06:54",
@@ -3590,7 +3590,7 @@
   {
     "id": 300,
     "gregorian_date": "27-10-2024",
-    "hijri_date": "21-03-1444",
+    "hijri_date": "21-03-1446",
     "imsak": "05:22",
     "fajr": "06:25",
     "sunrise": "06:55",
@@ -3602,7 +3602,7 @@
   {
     "id": 301,
     "gregorian_date": "28-10-2024",
-    "hijri_date": "22-03-1444",
+    "hijri_date": "22-03-1446",
     "imsak": "05:23",
     "fajr": "06:26",
     "sunrise": "06:56",
@@ -3614,7 +3614,7 @@
   {
     "id": 302,
     "gregorian_date": "29-10-2024",
-    "hijri_date": "23-03-1444",
+    "hijri_date": "23-03-1446",
     "imsak": "05:24",
     "fajr": "06:27",
     "sunrise": "06:57",
@@ -3626,7 +3626,7 @@
   {
     "id": 303,
     "gregorian_date": "30-10-2024",
-    "hijri_date": "24-03-1444",
+    "hijri_date": "24-03-1446",
     "imsak": "05:25",
     "fajr": "06:29",
     "sunrise": "06:59",
@@ -3638,7 +3638,7 @@
   {
     "id": 304,
     "gregorian_date": "31-10-2024",
-    "hijri_date": "25-03-1444",
+    "hijri_date": "25-03-1446",
     "imsak": "04:26",
     "fajr": "05:30",
     "sunrise": "06:00",
@@ -3650,7 +3650,7 @@
   {
     "id": 305,
     "gregorian_date": "01-11-2024",
-    "hijri_date": "26-03-1444",
+    "hijri_date": "26-03-1446",
     "imsak": "04:27",
     "fajr": "05:31",
     "sunrise": "06:01",
@@ -3662,7 +3662,7 @@
   {
     "id": 306,
     "gregorian_date": "02-11-2024",
-    "hijri_date": "27-03-1444",
+    "hijri_date": "27-03-1446",
     "imsak": "04:28",
     "fajr": "05:32",
     "sunrise": "06:02",
@@ -3674,7 +3674,7 @@
   {
     "id": 307,
     "gregorian_date": "03-11-2024",
-    "hijri_date": "28-03-1444",
+    "hijri_date": "28-03-1446",
     "imsak": "04:29",
     "fajr": "05:33",
     "sunrise": "06:03",
@@ -3686,7 +3686,7 @@
   {
     "id": 308,
     "gregorian_date": "04-11-2024",
-    "hijri_date": "29-03-1444",
+    "hijri_date": "29-03-1446",
     "imsak": "04:31",
     "fajr": "05:35",
     "sunrise": "06:05",
@@ -3698,7 +3698,7 @@
   {
     "id": 309,
     "gregorian_date": "05-11-2024",
-    "hijri_date": "30-03-1444",
+    "hijri_date": "30-03-1446",
     "imsak": "04:32",
     "fajr": "05:36",
     "sunrise": "06:06",
@@ -3710,7 +3710,7 @@
   {
     "id": 310,
     "gregorian_date": "06-11-2024",
-    "hijri_date": "01-04-1444",
+    "hijri_date": "01-04-1446",
     "imsak": "04:33",
     "fajr": "05:37",
     "sunrise": "06:07",
@@ -3722,7 +3722,7 @@
   {
     "id": 311,
     "gregorian_date": "07-11-2024",
-    "hijri_date": "02-04-1444",
+    "hijri_date": "02-04-1446",
     "imsak": "04:34",
     "fajr": "05:38",
     "sunrise": "06:08",
@@ -3734,7 +3734,7 @@
   {
     "id": 312,
     "gregorian_date": "08-11-2024",
-    "hijri_date": "03-04-1444",
+    "hijri_date": "03-04-1446",
     "imsak": "04:35",
     "fajr": "05:40",
     "sunrise": "06:10",
@@ -3746,7 +3746,7 @@
   {
     "id": 313,
     "gregorian_date": "09-11-2024",
-    "hijri_date": "04-04-1444",
+    "hijri_date": "04-04-1446",
     "imsak": "04:36",
     "fajr": "05:41",
     "sunrise": "06:11",
@@ -3758,7 +3758,7 @@
   {
     "id": 314,
     "gregorian_date": "10-11-2024",
-    "hijri_date": "05-04-1444",
+    "hijri_date": "05-04-1446",
     "imsak": "04:37",
     "fajr": "05:42",
     "sunrise": "06:12",
@@ -3770,7 +3770,7 @@
   {
     "id": 315,
     "gregorian_date": "11-11-2024",
-    "hijri_date": "06-04-1444",
+    "hijri_date": "06-04-1446",
     "imsak": "04:38",
     "fajr": "05:43",
     "sunrise": "06:13",
@@ -3782,7 +3782,7 @@
   {
     "id": 316,
     "gregorian_date": "12-11-2024",
-    "hijri_date": "07-04-1444",
+    "hijri_date": "07-04-1446",
     "imsak": "04:39",
     "fajr": "05:45",
     "sunrise": "06:15",
@@ -3794,7 +3794,7 @@
   {
     "id": 317,
     "gregorian_date": "13-11-2024",
-    "hijri_date": "08-04-1444",
+    "hijri_date": "08-04-1446",
     "imsak": "04:40",
     "fajr": "05:46",
     "sunrise": "06:16",
@@ -3806,7 +3806,7 @@
   {
     "id": 318,
     "gregorian_date": "14-11-2024",
-    "hijri_date": "09-04-1444",
+    "hijri_date": "09-04-1446",
     "imsak": "04:41",
     "fajr": "05:47",
     "sunrise": "06:17",
@@ -3818,7 +3818,7 @@
   {
     "id": 319,
     "gregorian_date": "15-11-2024",
-    "hijri_date": "10-04-1444",
+    "hijri_date": "10-04-1446",
     "imsak": "04:42",
     "fajr": "05:48",
     "sunrise": "06:18",
@@ -3830,7 +3830,7 @@
   {
     "id": 320,
     "gregorian_date": "16-11-2024",
-    "hijri_date": "11-04-1444",
+    "hijri_date": "11-04-1446",
     "imsak": "04:43",
     "fajr": "05:49",
     "sunrise": "06:19",
@@ -3842,7 +3842,7 @@
   {
     "id": 321,
     "gregorian_date": "17-11-2024",
-    "hijri_date": "12-04-1444",
+    "hijri_date": "12-04-1446",
     "imsak": "04:44",
     "fajr": "05:51",
     "sunrise": "06:21",
@@ -3854,7 +3854,7 @@
   {
     "id": 322,
     "gregorian_date": "18-11-2024",
-    "hijri_date": "13-04-1444",
+    "hijri_date": "13-04-1446",
     "imsak": "04:45",
     "fajr": "05:52",
     "sunrise": "06:22",
@@ -3866,7 +3866,7 @@
   {
     "id": 323,
     "gregorian_date": "19-11-2024",
-    "hijri_date": "14-04-1444",
+    "hijri_date": "14-04-1446",
     "imsak": "04:46",
     "fajr": "05:53",
     "sunrise": "06:23",
@@ -3878,7 +3878,7 @@
   {
     "id": 324,
     "gregorian_date": "20-11-2024",
-    "hijri_date": "15-04-1444",
+    "hijri_date": "15-04-1446",
     "imsak": "04:47",
     "fajr": "05:54",
     "sunrise": "06:24",
@@ -3890,7 +3890,7 @@
   {
     "id": 325,
     "gregorian_date": "21-11-2024",
-    "hijri_date": "16-04-1444",
+    "hijri_date": "16-04-1446",
     "imsak": "04:48",
     "fajr": "05:55",
     "sunrise": "06:25",
@@ -3902,7 +3902,7 @@
   {
     "id": 326,
     "gregorian_date": "22-11-2024",
-    "hijri_date": "17-04-1444",
+    "hijri_date": "17-04-1446",
     "imsak": "04:49",
     "fajr": "05:57",
     "sunrise": "06:27",
@@ -3914,7 +3914,7 @@
   {
     "id": 327,
     "gregorian_date": "23-11-2024",
-    "hijri_date": "18-04-1444",
+    "hijri_date": "18-04-1446",
     "imsak": "04:50",
     "fajr": "05:58",
     "sunrise": "06:28",
@@ -3926,7 +3926,7 @@
   {
     "id": 328,
     "gregorian_date": "24-11-2024",
-    "hijri_date": "19-04-1444",
+    "hijri_date": "19-04-1446",
     "imsak": "04:51",
     "fajr": "05:59",
     "sunrise": "06:29",
@@ -3938,7 +3938,7 @@
   {
     "id": 329,
     "gregorian_date": "25-11-2024",
-    "hijri_date": "20-04-1444",
+    "hijri_date": "20-04-1446",
     "imsak": "04:52",
     "fajr": "06:00",
     "sunrise": "06:30",
@@ -3950,7 +3950,7 @@
   {
     "id": 330,
     "gregorian_date": "26-11-2024",
-    "hijri_date": "21-04-1444",
+    "hijri_date": "21-04-1446",
     "imsak": "04:53",
     "fajr": "06:01",
     "sunrise": "06:31",
@@ -3962,7 +3962,7 @@
   {
     "id": 331,
     "gregorian_date": "27-11-2024",
-    "hijri_date": "22-04-1444",
+    "hijri_date": "22-04-1446",
     "imsak": "04:54",
     "fajr": "06:02",
     "sunrise": "06:32",
@@ -3974,7 +3974,7 @@
   {
     "id": 332,
     "gregorian_date": "28-11-2024",
-    "hijri_date": "23-04-1444",
+    "hijri_date": "23-04-1446",
     "imsak": "04:55",
     "fajr": "06:04",
     "sunrise": "06:34",
@@ -3986,7 +3986,7 @@
   {
     "id": 333,
     "gregorian_date": "29-11-2024",
-    "hijri_date": "24-04-1444",
+    "hijri_date": "24-04-1446",
     "imsak": "04:56",
     "fajr": "06:05",
     "sunrise": "06:35",
@@ -3998,7 +3998,7 @@
   {
     "id": 334,
     "gregorian_date": "30-11-2024",
-    "hijri_date": "25-04-1444",
+    "hijri_date": "25-04-1446",
     "imsak": "04:57",
     "fajr": "06:06",
     "sunrise": "06:36",
@@ -4010,7 +4010,7 @@
   {
     "id": 335,
     "gregorian_date": "01-12-2024",
-    "hijri_date": "26-04-1444",
+    "hijri_date": "26-04-1446",
     "imsak": "04:58",
     "fajr": "06:07",
     "sunrise": "06:37",
@@ -4022,7 +4022,7 @@
   {
     "id": 336,
     "gregorian_date": "02-12-2024",
-    "hijri_date": "27-04-1444",
+    "hijri_date": "27-04-1446",
     "imsak": "04:59",
     "fajr": "06:08",
     "sunrise": "06:38",
@@ -4034,7 +4034,7 @@
   {
     "id": 337,
     "gregorian_date": "03-12-2024",
-    "hijri_date": "28-04-1444",
+    "hijri_date": "28-04-1446",
     "imsak": "05:00",
     "fajr": "06:09",
     "sunrise": "06:39",
@@ -4046,7 +4046,7 @@
   {
     "id": 338,
     "gregorian_date": "04-12-2024",
-    "hijri_date": "29-04-1444",
+    "hijri_date": "29-04-1446",
     "imsak": "05:01",
     "fajr": "06:10",
     "sunrise": "06:40",
@@ -4058,7 +4058,7 @@
   {
     "id": 339,
     "gregorian_date": "05-12-2024",
-    "hijri_date": "01-05-1444",
+    "hijri_date": "01-05-1446",
     "imsak": "05:02",
     "fajr": "06:11",
     "sunrise": "06:41",
@@ -4070,7 +4070,7 @@
   {
     "id": 340,
     "gregorian_date": "06-12-2024",
-    "hijri_date": "02-05-1444",
+    "hijri_date": "02-05-1446",
     "imsak": "05:02",
     "fajr": "06:12",
     "sunrise": "06:42",
@@ -4082,7 +4082,7 @@
   {
     "id": 341,
     "gregorian_date": "07-12-2024",
-    "hijri_date": "03-05-1444",
+    "hijri_date": "03-05-1446",
     "imsak": "05:03",
     "fajr": "06:13",
     "sunrise": "06:43",
@@ -4094,7 +4094,7 @@
   {
     "id": 342,
     "gregorian_date": "08-12-2024",
-    "hijri_date": "04-05-1444",
+    "hijri_date": "04-05-1446",
     "imsak": "05:04",
     "fajr": "06:14",
     "sunrise": "06:44",
@@ -4106,7 +4106,7 @@
   {
     "id": 343,
     "gregorian_date": "09-12-2024",
-    "hijri_date": "05-05-1444",
+    "hijri_date": "05-05-1446",
     "imsak": "05:05",
     "fajr": "06:15",
     "sunrise": "06:45",
@@ -4118,7 +4118,7 @@
   {
     "id": 344,
     "gregorian_date": "10-12-2024",
-    "hijri_date": "06-05-1444",
+    "hijri_date": "06-05-1446",
     "imsak": "05:06",
     "fajr": "06:16",
     "sunrise": "06:46",
@@ -4130,7 +4130,7 @@
   {
     "id": 345,
     "gregorian_date": "11-12-2024",
-    "hijri_date": "07-05-1444",
+    "hijri_date": "07-05-1446",
     "imsak": "05:06",
     "fajr": "06:16",
     "sunrise": "06:46",
@@ -4142,7 +4142,7 @@
   {
     "id": 346,
     "gregorian_date": "12-12-2024",
-    "hijri_date": "08-05-1444",
+    "hijri_date": "08-05-1446",
     "imsak": "05:07",
     "fajr": "06:17",
     "sunrise": "06:47",
@@ -4154,7 +4154,7 @@
   {
     "id": 347,
     "gregorian_date": "13-12-2024",
-    "hijri_date": "09-05-1444",
+    "hijri_date": "09-05-1446",
     "imsak": "05:08",
     "fajr": "06:18",
     "sunrise": "06:48",
@@ -4166,7 +4166,7 @@
   {
     "id": 348,
     "gregorian_date": "14-12-2024",
-    "hijri_date": "10-05-1444",
+    "hijri_date": "10-05-1446",
     "imsak": "05:09",
     "fajr": "06:19",
     "sunrise": "06:49",
@@ -4178,7 +4178,7 @@
   {
     "id": 349,
     "gregorian_date": "15-12-2024",
-    "hijri_date": "11-05-1444",
+    "hijri_date": "11-05-1446",
     "imsak": "05:09",
     "fajr": "06:20",
     "sunrise": "06:50",
@@ -4190,7 +4190,7 @@
   {
     "id": 350,
     "gregorian_date": "16-12-2024",
-    "hijri_date": "12-05-1444",
+    "hijri_date": "12-05-1446",
     "imsak": "05:10",
     "fajr": "06:20",
     "sunrise": "06:50",
@@ -4202,7 +4202,7 @@
   {
     "id": 351,
     "gregorian_date": "17-12-2024",
-    "hijri_date": "13-05-1444",
+    "hijri_date": "13-05-1446",
     "imsak": "05:10",
     "fajr": "06:21",
     "sunrise": "06:51",
@@ -4214,7 +4214,7 @@
   {
     "id": 352,
     "gregorian_date": "18-12-2024",
-    "hijri_date": "14-05-1444",
+    "hijri_date": "14-05-1446",
     "imsak": "05:11",
     "fajr": "06:22",
     "sunrise": "06:52",
@@ -4226,7 +4226,7 @@
   {
     "id": 353,
     "gregorian_date": "19-12-2024",
-    "hijri_date": "15-05-1444",
+    "hijri_date": "15-05-1446",
     "imsak": "05:12",
     "fajr": "06:22",
     "sunrise": "06:52",
@@ -4238,7 +4238,7 @@
   {
     "id": 354,
     "gregorian_date": "20-12-2024",
-    "hijri_date": "16-05-1444",
+    "hijri_date": "16-05-1446",
     "imsak": "05:12",
     "fajr": "06:23",
     "sunrise": "06:53",
@@ -4250,7 +4250,7 @@
   {
     "id": 355,
     "gregorian_date": "21-12-2024",
-    "hijri_date": "17-05-1444",
+    "hijri_date": "17-05-1446",
     "imsak": "05:13",
     "fajr": "06:23",
     "sunrise": "06:53",
@@ -4262,7 +4262,7 @@
   {
     "id": 356,
     "gregorian_date": "22-12-2024",
-    "hijri_date": "18-05-1444",
+    "hijri_date": "18-05-1446",
     "imsak": "05:13",
     "fajr": "06:24",
     "sunrise": "06:54",
@@ -4274,7 +4274,7 @@
   {
     "id": 357,
     "gregorian_date": "23-12-2024",
-    "hijri_date": "19-05-1444",
+    "hijri_date": "19-05-1446",
     "imsak": "05:14",
     "fajr": "06:24",
     "sunrise": "06:54",
@@ -4286,7 +4286,7 @@
   {
     "id": 358,
     "gregorian_date": "24-12-2024",
-    "hijri_date": "20-05-1444",
+    "hijri_date": "20-05-1446",
     "imsak": "05:14",
     "fajr": "06:25",
     "sunrise": "06:55",
@@ -4298,7 +4298,7 @@
   {
     "id": 359,
     "gregorian_date": "25-12-2024",
-    "hijri_date": "21-05-1444",
+    "hijri_date": "21-05-1446",
     "imsak": "05:15",
     "fajr": "06:25",
     "sunrise": "06:55",
@@ -4310,7 +4310,7 @@
   {
     "id": 360,
     "gregorian_date": "26-12-2024",
-    "hijri_date": "22-05-1444",
+    "hijri_date": "22-05-1446",
     "imsak": "05:15",
     "fajr": "06:26",
     "sunrise": "06:56",
@@ -4322,7 +4322,7 @@
   {
     "id": 361,
     "gregorian_date": "27-12-2024",
-    "hijri_date": "23-05-1444",
+    "hijri_date": "23-05-1446",
     "imsak": "05:15",
     "fajr": "06:26",
     "sunrise": "06:56",
@@ -4334,7 +4334,7 @@
   {
     "id": 362,
     "gregorian_date": "28-12-2024",
-    "hijri_date": "24-05-1444",
+    "hijri_date": "24-05-1446",
     "imsak": "05:16",
     "fajr": "06:26",
     "sunrise": "06:56",
@@ -4346,7 +4346,7 @@
   {
     "id": 363,
     "gregorian_date": "29-12-2024",
-    "hijri_date": "25-05-1444",
+    "hijri_date": "25-05-1446",
     "imsak": "05:16",
     "fajr": "06:27",
     "sunrise": "06:57",
@@ -4358,7 +4358,7 @@
   {
     "id": 364,
     "gregorian_date": "30-12-2024",
-    "hijri_date": "26-05-1444",
+    "hijri_date": "26-05-1446",
     "imsak": "05:16",
     "fajr": "06:27",
     "sunrise": "06:57",
@@ -4370,7 +4370,7 @@
   {
     "id": 365,
     "gregorian_date": "31-12-2024",
-    "hijri_date": "27-05-1444",
+    "hijri_date": "27-05-1446",
     "imsak": "05:16",
     "fajr": "06:27",
     "sunrise": "06:57",
