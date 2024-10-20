@@ -2,7 +2,7 @@
   {
     "id": 1,
     "gregorian_date": "01-01-2024",
-    "hijri_date": "17-05-",
+    "hijri_date": "17-05-1445",
     "imsak": "05:16",
     "fajr": "06:27",
     "sunrise": "06:57",
@@ -1864,7 +1864,7 @@
     "gregorian_date": "05-06-2024",
     "hijri_date": "24-10-1445",
     "imsak": "02:45",
-    "fajr": "02:25",
+    "fajr": "04:25",
     "sunrise": "04:55",
     "dhuhr": "12:40",
     "asr": "16:39",
